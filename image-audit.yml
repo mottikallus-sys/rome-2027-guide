@@ -1,0 +1,268 @@
+image_policy: Do not describe existing AI-generated/editorial visuals as authentic
+  photographs
+items:
+- name: Ba’Ghetto
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: BellaCarne
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Renato al Ghetto
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Su’Ghetto
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Ba’Ghetto Milky
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Casalino Osteria
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Yotvata
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Ba’Ghetto Bistrot
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Bona Pizza
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Fonzie Burger
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Little Tripoli
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Flour Farina e Cucina
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Dolce Kosher
+  category: kosher
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the restaurant
+- name: Colosseum + Roman Forum
+  category: landmarks
+  file: assets/colosseum.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Trevi Fountain
+  category: landmarks
+  file: assets/trevi.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Spanish Steps
+  category: landmarks
+  file: assets/steps.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Pantheon
+  category: landmarks
+  file: assets/pantheon.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Piazza Navona
+  category: landmarks
+  file: assets/navona.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Vatican / St Peter’s Square
+  category: landmarks
+  file: assets/vatican.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Castel Sant’Angelo
+  category: landmarks
+  file: assets/castle.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Piazza Venezia / Vittoriano
+  category: landmarks
+  file: assets/vittoriano.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Jewish Quarter & Great Synagogue
+  category: landmarks
+  file: assets/synagogue.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: AcquaMadre Hammam
+  category: spa
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the spa
+- name: QC Spa Roma
+  category: spa
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the spa
+- name: Terme di Roma / Acque Albule
+  category: spa
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the spa
+- name: BAHR City Spa
+  category: spa
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the spa
+- name: St Peter’s Spa
+  category: spa
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the spa
+- name: Colosseum / Forum — free Sunday
+  category: seasonal
+  file: assets/colosseum.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Castel Sant’Angelo — free Sunday
+  category: seasonal
+  file: assets/castle.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Piazza Navona Christmas Market
+  category: seasonal
+  file: assets/navona.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Christmas World / Villa Borghese
+  category: seasonal
+  file: assets/christmas.jpg
+  status: illustration_not_verified_venue_photo
+  note: Seasonal illustration
+- name: Circus Maximus NYE party
+  category: seasonal
+  file: assets/christmas.jpg
+  status: illustration_not_verified_venue_photo
+  note: Seasonal illustration
+- name: La Befana — Piazza Navona
+  category: seasonal
+  file: assets/navona.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Babington’s Tea Room
+  category: nightlife
+  file: assets/steps.jpg
+  status: illustration_not_verified_venue_photo
+  note: Area illustration, not the venue
+- name: Drink Kong
+  category: nightlife
+  file: assets/cocktails.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Jerry Thomas Speakeasy
+  category: nightlife
+  file: assets/cocktails.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Hotel De’ Ricci Cigar Lounge
+  category: nightlife
+  file: assets/cocktails.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Café de Anatolia Shisha
+  category: nightlife
+  file: assets/cocktails.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Jacking Shisha / Trastevere
+  category: nightlife
+  file: assets/cocktails.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Ostiense / Via Libetta
+  category: clubs
+  file: assets/dance.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: EUR / Piazza Marconi
+  category: clubs
+  file: assets/dance.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Trastevere
+  category: clubs
+  file: assets/dance.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Testaccio
+  category: clubs
+  file: assets/dance.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Historic center / Sharivari
+  category: clubs
+  file: assets/dance.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not the venue
+- name: Aniene Adventure — mountain trail
+  category: atv
+  file: assets/quad.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not this tour
+- name: Lake Bracciano quad trails
+  category: atv
+  file: assets/quad.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not this tour
+- name: Cerveteri quad / waterfalls
+  category: atv
+  file: assets/quad.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not this tour
+- name: Aniene sunset quad
+  category: atv
+  file: assets/quad.jpg
+  status: illustration_not_verified_venue_photo
+  note: Editorial illustration, not this tour
+- name: Colosseum / Forum — free Sunday
+  category: museums
+  file: assets/colosseum.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Castel Sant’Angelo — free Sunday
+  category: museums
+  file: assets/castle.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Pantheon — free first Sunday
+  category: museums
+  file: assets/pantheon.jpg
+  status: illustration_not_verified_venue_photo
+  note: Place-specific illustration
+- name: Borghese Gallery — free first Sunday
+  category: museums
+  file: assets/cafe.jpg
+  status: illustration_not_verified_venue_photo
+  note: Illustrative image
+- name: Baths of Caracalla — free first Sunday
+  category: museums
+  file: assets/thermal.jpg
+  status: illustration_not_verified_venue_photo
+  note: Illustrative image

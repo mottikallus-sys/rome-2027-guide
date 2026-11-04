@@ -1,0 +1,53 @@
+site:
+  title: Road Trip 2027
+  subtitle: Rome · Dec 31, 2026 – Jan 6, 2027
+  languages:
+  - en
+  - es
+  - he
+  default_language: en
+  hebrew_direction: rtl
+trip:
+  start: '2026-12-31'
+  end: '2027-01-06'
+  timezone: Europe/Rome
+  home_base:
+    display: Viale Angelico 38, Rome
+    private_address_notice: true
+navigation:
+- id: kosher
+  label: Kosher Restaurants
+- id: landmarks
+  label: Sightseeing
+- id: museums
+  label: Museums
+- id: spa
+  label: Roman Baths & Spas
+- id: seasonal
+  label: Winter & New Year
+- id: nightlife
+  label: Bars, Hookah & Cigars
+- id: clubs
+  label: Dance Floors & Clubs
+- id: atv
+  label: ATV Adventures
+- id: events
+  label: Events During Our Stay
+live_widgets:
+  weather:
+    source: Open-Meteo
+    scope: current conditions
+    refresh: on page load
+  exchange_rates:
+    source: Frankfurter
+    pairs:
+    - USD/EUR
+    - ILS/EUR
+    refresh: on page load
+  events:
+    source: Ticketmaster Discovery API
+    refresh: daily GitHub Action
+    api_key_secret: TICKETMASTER_API_KEY
+    coverage: partial; curated events preserved
+note: This YAML documents site configuration; the current index.html uses embedded
+  JavaScript and does not read YAML dynamically.

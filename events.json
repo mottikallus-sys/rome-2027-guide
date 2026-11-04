@@ -1,0 +1,34 @@
+{
+  "updated": "2026-11-04",
+  "automatic": false,
+  "events": [
+    {
+      "date": "2026-12-31",
+      "title": "New Year's Eve in central Rome — program pending",
+      "venue": "Circo Massimo / central Rome",
+      "description": "Possible city celebration; official 2026–27 lineup and location not confirmed.",
+      "url": "https://www.turismoroma.it/en/events"
+    },
+    {
+      "date": "2027-01-03",
+      "title": "Domenica al Museo — First Sunday admission",
+      "venue": "State-run museums and archaeological sites",
+      "description": "Recurring free-entry initiative; individual venue conditions and 2027 participation to verify.",
+      "url": "https://cultura.gov.it/domenicalmuseo"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "Piazza Navona festive market — seasonal candidate",
+      "venue": "Piazza Navona",
+      "description": "Traditionally runs through Epiphany; check official 2026–27 market schedule.",
+      "url": "https://www.turismoroma.it/en"
+    },
+    {
+      "date": "2027-01-06",
+      "title": "La Befana / Epiphany celebrations",
+      "venue": "Rome city center",
+      "description": "Public holiday; city events and exact timings to verify nearer the date.",
+      "url": "https://www.turismoroma.it/en/events"
+    }
+  ]
+}
