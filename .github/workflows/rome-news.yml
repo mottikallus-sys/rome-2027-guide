@@ -1,0 +1,31 @@
+name: Refresh Rome News
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: rome-news-feed
+  cancel-in-progress: false
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out guide
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch public Rome RSS headlines
+        run: python scripts/update_rome_news.py
+      - name: Commit feed
+        run: |
+          if ! git diff --quiet -- rome-news.json; then
+            git config user.name "Rome News Bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add rome-news.json
+            git commit -m "Refresh Rome news headlines"
+            git push
+          fi
