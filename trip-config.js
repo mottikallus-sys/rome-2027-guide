@@ -1,6 +1,6 @@
-// These two settings are PUBLIC browser configuration, not private credentials.
-// Never put a service_role key, password, or booking information in a public repository.
+// Public browser configuration only. Access is enforced by Supabase RLS policies.
+// NEVER place service_role, sb_secret, passwords, or actual booking details here.
 window.ROADTRIP_PRIVATE_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseUrl: "https://zoetnprezdxiqvjwzcwm.supabase.co",
+  supabaseAnonKey: "sb_publishable_FiiBB5v3BPwRo5nZJ8EAGg_pA2CJui6"
 };
