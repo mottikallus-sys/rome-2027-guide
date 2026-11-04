@@ -18,7 +18,7 @@ SOURCES = [
     ("RomaToday", "https://www.romatoday.it/rss", "general"),
     ("Wanted in Rome", "https://www.wantedinrome.com/news?format=feed", "general"),
     ("Romeing", "https://www.romeing.it/feed/", "events"),
-    ("ATAC", "https://www.atac.roma.it/rss.aspx", "transport"),
+    ("ATAC", "https://www.atac.roma.it/feeds/stato-del-servizio-in-tempo-reale", "transport"),
 ]
 TOPICS = {
     "transport": ("metro", "bus", "tram", "treno", "train", "strike", "scioper", "airport", "aeroporto", "fiumicino", "ciampino", "traffico", "traffic", "chiusura", "closed", "closure", "atac", "trasport", "transport", "viabilit"),
