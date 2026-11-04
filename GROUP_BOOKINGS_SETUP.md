@@ -1,35 +1,22 @@
-# ROAD TRIP 2027 — make everyone's flights appear together
+# ROAD TRIP 2027 — Group Flights without email sign-in
 
-## What's already built
-The separate **My Trip / Group Flights** page at
-https://mottikallus-sys.github.io/rome-2027-guide/my-trip.html
-allows approved travelers to sign in with an email magic link, add outbound/return/connection flights, and see all group flights across phones. Flight cards are grouped by traveler/couple; an all-group chronological board shows dates, flight numbers and airports.
+Everyone can see each other's **flight schedules** in a private group and add outbound, return and connecting flights. A flight confirmation is optional and is visible only to the anonymous session that created it.
 
-Flight **booking references** are optional and stored in a separate table. Only the booking owner can read their code; group members can see the flight schedule but not confirmation codes.
+**User experience:** Each person opens https://mottikallus-sys.github.io/rome-2027-guide/my-trip.html, enters their name/couple and the shared private group code once, then uses the shared board. No email, individual approvals, or visible account login.
 
-## Important: connection still required
-The GitHub site has no configured shared database yet. **Do not collect real flight confirmation codes until your Supabase project is configured, and your login/row-level security policies have been verified.** When not connected, the page shows a setup message and does **not** pretend bookings are synchronized.
+## Two setup steps for the organizer
 
-1. Create a Supabase project under your account at https://supabase.com/ .
-2. In Supabase **SQL Editor**, run `SUPABASE_SETUP.sql` from this repository. Verify it ran without errors. This creates `trip_members`, `trip_flights`, and `trip_flight_confirmations` and their RLS policies.
-3. In **Authentication → Providers**, enable email magic-link/OTP sign-in. In **Authentication → URL Configuration**, add the exact redirect URL:
-   `https://mottikallus-sys.github.io/rome-2027-guide/my-trip.html`
-4. Open **Project Settings → API** (or **Connect** in newer Supabase UI). Copy the **Project URL** and the browser-safe **publishable** key (or legacy `anon` key) to `trip-config.js`. NEVER put the service role/secret key in GitHub.
-5. Open the web page and sign in. The page will show your verified Supabase auth **User ID** while membership is pending. In the private Supabase SQL Editor, approve it:
-   ```sql
-   insert into public.trip_members(user_id,display_name)
-   values ('THE_SIGNED_IN_USER_UUID','Organizer')
-   on conflict(user_id) do update set display_name=excluded.display_name;
-   ```
-6. Invite the other travelers **by sharing the My Trip URL**. Each uses their own email sign-in link; after they log in, they privately share their user ID with you. You approve each verified ID in the SQL Editor in the same way.
-7. Everyone can now add their own flights. Press **Refresh flights** to view new entries added by others. Group schedules are visible to all approved members; confirmation numbers are only shown to the person who entered them.
+1. **Enable anonymous authentication.** In Supabase Dashboard → Authentication → Sign In / Providers → User Signups, turn on **Allow anonymous sign-ins** and save. This is the automatic anonymous authentication under the hood; it is not the same as opening the flight database to the public.
+2. **Create one private group code.** In Supabase Dashboard → SQL Editor → New query, open [GUEST_CODE_SETUP.sql](./GUEST_CODE_SETUP.sql), paste its full contents, then Run. The result row contains your unique **private_group_code** (20 random characters). Copy the code into a private note. Do not put the code in GitHub, public chats, photos, or browser config.
 
-## Privacy and limitations
-- Only approved members can read group flight schedules. Membership isn't available to the general public.
-- Each member can delete their own flight; they can't modify someone else's.
-- Real confirmation codes aren't required for the group board; preferably add only flight schedule data while first testing.
-- **This is not airline-reservation lookup.** A booking reference by itself doesn't fetch itinerary details. Travelers must enter the flight number, date, and airports.
-- The FlightAware button opens external flight tracking; flight status is not streamed into the app.
-- GitHub Pages serves public code, not private flight data. Supabase handles authentication and access-controlled storage.
-- The old `trip_bookings` table, if it was created in a prior setup, is not used by the new flights-only page. Review and remove it separately after backing up any data you wish to keep.
-- If an authorized member opens a private reference, the airline may allow reservation changes. Do not share booking numbers in the group chat.
+Afterward, open the Group Flights page, enter a couple name and the code. It will create a guest session automatically. Share the *page link* and *code privately* with the group; they can enter their own flights and see everyone's itineraries. Existing SQL flight tables and their RLS policies remain in place.
+
+## Security and limits
+- Sharing the group code means sharing access. Anyone who knows the code can join, see flight times, and add their own entries. Only give it to your travel group.
+- The Supabase database and group access logic enforce access on the server. The group code never appears in public GitHub code or browser config.
+- Flight confirmation codes are stored in `trip_flight_confirmations`, accessible only to the creating session under the database's RLS policies. They do not appear on the group-wide board.
+- **Anonymous sessions are linked to the browser/device.** If somebody clears browser storage, switches device, uses private browsing, or signs out, they may lose the ability to edit/delete flights entered earlier and to retrieve their own confirmation codes. They can rejoin with the group code but will be a new member. For this reason, avoid storing sensitive real confirmation codes and retain original airline confirmations elsewhere.
+- The group can refresh to see new entries. True live flight status is not integrated; FlightAware tracking links open separately.
+- For revoking a leaked code, run `select public.roadtrip_rotate_code();` in the private SQL Editor, copy the new code, and distribute it securely. **Rotating the code does not revoke members who already joined.** To revoke members, remove their rows in `trip_members` using the admin dashboard (and review owned records separately).
+- This mode favors convenience over verified traveler identity. Users can choose any display name and the same group code works for everyone. If secure identity recovery or strict audit is required, switch back to email accounts.
+- The SQL file `SUPABASE_SETUP.sql` was run previously to create `trip_members`, `trip_flights`, and `trip_flight_confirmations` with RLS. Do **not** remove those tables.
