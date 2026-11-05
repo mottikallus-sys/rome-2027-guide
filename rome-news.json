@@ -1,24 +1,236 @@
 {
-  "updated": "2026-11-04T18:45:00Z",
-  "automatic": false,
+  "updated": "2026-11-05T07:36:13Z",
+  "automatic": true,
   "articles": [
     {
-      "title": "Hoax bomb threats hit flights at Rome’s Fiumicino airport",
-      "url": "https://www.wantedinrome.com/news/hoax-bomb-threats-disrupt-flights-rome-fiumicino-airport.html",
-      "source": "Wanted in Rome",
-      "published": "2026-11-03T10:00:00Z",
+      "title": "Parco Tre Fontane, finalmente i lavori: via al cantiere da oltre 3 milioni per trasformare l'area verde",
+      "url": "https://www.romatoday.it/politica/parco-tre-fontane-lavori-come-sara.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T06:43:48Z",
+      "category": "general"
+    },
+    {
+      "title": "Roma al lavoro\", torna il job day del Comune per chi è in cerca di occupazione",
+      "url": "https://www.romatoday.it/politica/job-day-roma-19-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T06:11:30Z",
+      "category": "general"
+    },
+    {
+      "title": "Economia: il Lazio cresce più dell'Italia, ma l'inflazione pesa sulle famiglie: i dati di Bankitalia",
+      "url": "https://www.romatoday.it/politica/economia-lazio-crescita-bankitalia-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T05:16:58Z",
+      "category": "general"
+    },
+    {
+      "title": "Atac, l'assenteismo preoccupa il direttore generale: \"Difficile gestire il servizio in queste condizioni\"",
+      "url": "https://www.romatoday.it/politica/autisti-assenti-atac-paolo-aielli.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T04:44:00Z",
       "category": "transport"
     },
     {
-      "title": "Rome mayor offers 10,000 free opera tickets from 2027",
-      "url": "https://www.wantedinrome.com/news/rome-mayor-offers-10000-free-opera-tickets-after-video-post-with-mamdani.html",
-      "source": "Wanted in Rome",
-      "published": "2026-11-03T10:00:00Z",
+      "title": "Julia 3.0 e Sospas: Roma presenta i progetti per l'innovazione urbana allo Smart city Expo di Barcellona",
+      "url": "https://www.romatoday.it/politica/smart-city-expo-barcellona-progetti.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T04:38:35Z",
+      "category": "general"
+    },
+    {
+      "title": "\"Tutto il potere che c'hanno Molisso e Bennato lo dirige lui a Roma\". Chi è il 'Facocero', il latitante braccio destro dei boss",
+      "url": "https://www.romatoday.it/dossier/criminalita/emanuele-selva-facocero-chi-e.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T04:13:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Braccia vendute all'agricoltura. Pagare (fino a 500€ a notte) per raccogliere olive e mungere capre",
+      "url": "https://www.romatoday.it/dossier/sociale/coltivare-frantoio-lavoro-vacanze-lazio.html",
+      "source": "RomaToday",
+      "published": "2026-11-05T04:02:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Raffreddori, bronchiti e faringiti. I medici di Roma: \"Studi già pieni, gli accessi aumenteranno ancora\"",
+      "url": "https://www.romatoday.it/attualita/raffreddori-bronchiti-e-faringiti-i-medici-di-roma-studi-gia-pieni.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T22:51:00Z",
+      "category": "general"
+    },
+    {
+      "title": "C’è uno studentato dentro un centro commerciale. Nella primavera 2027 altri 253 posti vicino l'università",
+      "url": "https://www.romatoday.it/zone/torri/tor-bella-monaca/studentati-tor-vergata-nuove-aperture-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T21:48:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Dati geospaziali e intelligenza artificiale: per migliorare la gestione dei rifiuti si guarda all'innovazione tecnologica",
+      "url": "https://www.romatoday.it/politica/ecomondo-ama-trasformazione-digitale.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T20:38:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Tenta il furto nell'auto e poi entra in un garage: ladro spintona il portiere e aggredisce i poliziotti",
+      "url": "https://www.romatoday.it/cronaca/furto-box-via-baldo-degli-ubaldi-3-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T20:37:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Mercato Esquilino, maxi sequestro di pesce: distrutti 80 chili",
+      "url": "https://www.romatoday.it/cronaca/sequestro-pesce-mercato-esquilino.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T20:35:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Quasi un mese senz'acqua nella scala di una palazzina Ater. “Al mattino non c’è neanche una goccia per lavarsi\"",
+      "url": "https://www.romatoday.it/zone/montesacro/tufello/senza-acqua-monte-petroso.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T20:35:00Z",
+      "category": "general"
+    },
+    {
+      "title": "\"Vi ammazzo tutti. Tornate al vostro Paese\", terrore tra i banchi del mercato",
+      "url": "https://www.romatoday.it/cronaca/insulti-razzisti-rapina-mercato-civitavecchia.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T19:12:00Z",
+      "category": "general"
+    },
+    {
+      "title": "A CASAL BRUCIATO, DAL 9 NOVEMBRE LA LINEA 448 ESTENDE IL PERCORSO",
+      "url": "https://www.atac.roma.it/tempo-reale/a-casal-bruciato--dal-9-novembre-la-linea-448-estende-il-percorso",
+      "source": "ATAC",
+      "published": "2026-11-04T18:05:36Z",
+      "category": "transport"
+    },
+    {
+      "title": "Aeroporto di Fiumicino, attivate le nuove fermate per i bus Cotral verso la Capitale (anche di notte)",
+      "url": "https://www.romatoday.it/politica/fermata-cotral-aeroporto-fiumicino-terminal-3.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T17:36:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "\"You’ll never burn alone”: a Casal Bruciato la squadra di calcio popolare. Raccolta fondi per sostenere il progetto",
+      "url": "https://www.romatoday.it/zone/tiburtino/casal-bruciato/casal-bruciato-calcio-popolare-raccolta-fondi.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T17:13:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Policlinico Umberto I, via al nuovo progetto: padiglioni demoliti e campus universitario",
+      "url": "https://www.romatoday.it/politica/nuovo-policlinico-umberto-i-lavori-quando.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T16:40:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Manchester Utd-Roma, la denuncia dei tifosi giallorossi: \"Trattati da cani\"",
+      "url": "https://www.romatoday.it/cronaca/tifosi-roma-manchester-denuncia-trasferta.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T16:39:37Z",
+      "category": "general"
+    },
+    {
+      "title": "Villaggio Prenestino, la visita di Papa Leone XIV \"accelera\" la messa in sicurezza di via del Fosso dell'Osa",
+      "url": "https://www.romatoday.it/zone/torri/borghesiana/lavori-via-fosso-dell-osa-quando-chiude.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T16:06:28Z",
+      "category": "alerts"
+    },
+    {
+      "title": "Lirica in rivolta, la trattativa sul contratto è ferma: a rischio le \"Prime\" nei teatri",
+      "url": "https://www.romatoday.it/economia/proteste-lirici-teatro-opera.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T15:38:32Z",
+      "category": "general"
+    },
+    {
+      "title": "Gianfranco Minissale, chi è il nuovo capo della squadra mobile di Roma",
+      "url": "https://www.romatoday.it/cronaca/gianfranco-minissale-capo-squadra-mobile-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T15:34:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Spartizione di potere, questioni personali, estorsioni. Dentro i tre livelli d'indagine per le oltre 20 bombe esplose a Roma",
+      "url": "https://www.romatoday.it/dossier/criminalita/bombe-a-roma-cosa-succede.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T15:32:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Furgone in fiamme, poi l'esplosione in autostrada. Traffico in tilt. IL VIDEO",
+      "url": "https://www.romatoday.it/cronaca/video-esplosione-furgone-a1.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T15:14:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Rapina al supermercato: entra con il machete e scappa con il bottino. Caccia al bandito in scooter",
+      "url": "https://www.romatoday.it/cronaca/rapina-supermercato-deco-via-delle-vigne.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T14:54:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Le musiche di “Stranger Things” all'Auditorium Parco della Musica",
+      "url": "https://www.romatoday.it/eventi/musiche-stranger-things-auditorium-parco-musica-19-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-04T14:53:39Z",
+      "category": "general"
+    },
+    {
+      "title": "Masa Rooftop: a Mediterranean Food & Drink Journey in Rome",
+      "url": "https://www.romeing.it/masa-rooftop-mediterranean-food-drink-rome/",
+      "source": "Romeing",
+      "published": "2026-11-02T21:38:46Z",
+      "category": "events"
+    },
+    {
+      "title": "13 Wineries near Rome for Wine Tastings and Countryside Stays",
+      "url": "https://www.romeing.it/wineries-near-rome/",
+      "source": "Romeing",
+      "published": "2026-11-01T15:46:23Z",
+      "category": "events"
+    },
+    {
+      "title": "Piazzas in Rome: A Walk Before the Crowds Arrive",
+      "url": "https://www.romeing.it/piazzas-in-rome-walk/",
+      "source": "Romeing",
+      "published": "2026-10-31T21:57:00Z",
+      "category": "events"
+    },
+    {
+      "title": "Free Things to Do in Rome",
+      "url": "https://www.romeing.it/top-free-things-to-do-rome/",
+      "source": "Romeing",
+      "published": "2026-10-31T14:16:54Z",
+      "category": "events"
+    },
+    {
+      "title": "FOOD. Tasting Art at Chiostro del Bramante",
+      "url": "https://www.romeing.it/food-tasting-art-at-chiostro-del-bramante/",
+      "source": "Romeing",
+      "published": "2026-10-28T16:51:06Z",
+      "category": "events"
+    },
+    {
+      "title": "Rome’s Rose Garden Reopens for Autumn",
+      "url": "https://www.romeing.it/garden-of-roses-rome/",
+      "source": "Romeing",
+      "published": "2026-10-28T14:37:04Z",
       "category": "events"
     }
   ],
   "sources": {
-    "Wanted in Rome": "2 verified source links; initial snapshot"
-  },
-  "note": "Initial two verified headlines; the automated RSS job has not yet run."
+    "RomaToday": 25,
+    "Wanted in Rome": "unavailable",
+    "Romeing": 6,
+    "ATAC": 1
+  }
 }
