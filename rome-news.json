@@ -1,181 +1,188 @@
 {
-  "updated": "2026-11-06T07:32:46Z",
+  "updated": "2026-11-07T07:18:51Z",
   "automatic": true,
   "articles": [
     {
-      "title": "La solidarietà che unisce l'Italia in un gesto di pace: arriva a Roma la Giornata Nazionale della Colletta Alimentare®",
-      "url": "https://www.romatoday.it/eventi/giornata-nazionale-colletta-alimentare.html",
+      "title": "Ares non rinnova cento tempi determinati. Ugl: \"È uno spreco pubblico\"",
+      "url": "https://www.romatoday.it/economia/contratti-tempo-determinato-ares-ugl.html",
       "source": "RomaToday",
-      "published": "2026-11-06T09:00:00Z",
+      "published": "2026-11-07T06:35:00Z",
       "category": "general"
     },
     {
-      "title": "Dal grande schermo alla pista di kart: 5 esperienze da vivere a Roma Sud",
-      "url": "https://www.romatoday.it/speciale/trascorrere-tempo-libero-the-village.html",
+      "title": "Video | L'ex Mira Lanza è stata bonificata. L'area è ora videosorvegliata e illuminata",
+      "url": "https://www.romatoday.it/zone/arvalia/marconi/video-drone-bonifica-ex-mira-lanza.html",
       "source": "RomaToday",
-      "published": "2026-11-06T09:00:00Z",
+      "published": "2026-11-07T06:24:00Z",
       "category": "general"
     },
     {
-      "title": "Colli Albani, sempre con l'auricolare all'orecchio e carte diverse: preleva soldi da bancomat rubati",
-      "url": "https://www.romatoday.it/cronaca/colli-albani-furti-soldi-bancomat.html",
+      "title": "Firmato il contratto integrativo del Comune di Roma. Cosa cambia in busta paga, per lo smart working e per il welfare",
+      "url": "https://www.romatoday.it/politica/contratto-integrativo-roma-capitale-buoni-pasto-smart-working.html",
       "source": "RomaToday",
-      "published": "2026-11-06T07:10:29Z",
+      "published": "2026-11-07T06:19:46Z",
+      "category": "transport"
+    },
+    {
+      "title": "Le famiglie più ricche di Roma; la Capitale in mano ai fondi; Achille Lauro palazzinaro",
+      "url": "https://www.romatoday.it/newsletter/dossier/nl-7-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T05:52:23Z",
       "category": "general"
     },
     {
-      "title": "Enrico Melozzi trasforma la musica classica in un rave collettivo al Romaeuropa Festival",
-      "url": "https://www.romatoday.it/eventi/romaeuropa-festival-melozzi.html",
+      "title": "Christian De Sica e Claudio Santamaria, coppia (romana) inedita nella nuova serie Netflix",
+      "url": "https://www.romatoday.it/eventi/cultura/de-sica-santamaria-the-label-netflix.html",
       "source": "RomaToday",
-      "published": "2026-11-06T07:00:00Z",
+      "published": "2026-11-07T05:40:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Capannelle, Raggi presenta 4 interrogazioni: “Gestione Zétema al buio, chiarire su scommesse e costi”",
+      "url": "https://www.romatoday.it/politica/ippodromo-capannelle-.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T05:39:00Z",
+      "category": "general"
+    },
+    {
+      "title": "I nomi (vecchi e nuovi) dei consiglieri che puntano al Campidoglio. Con il campo larghissimo la strada è più in salita",
+      "url": "https://www.romatoday.it/politica/candidati-pd-elezioni-2027-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T05:01:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Villa Stuart, Paideia e le altre. Chi guadagna (e chi comanda) nel business della fisioterapia a Roma",
+      "url": "https://www.romatoday.it/dossier/economia/centri-fisioterapia-fatturato-convenzioni.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T04:45:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "\"Ci curiamo in un mondo che ci avvelena\": a Roma nasce Cancro Rabbia",
+      "url": "https://www.romatoday.it/attualita/cancro-rabbia-collettivo-pazienti-oncologici-libreria-francese.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T04:22:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Dai locali di Roma Est ai matrimoni misti. Così la musica balcanica ha conquistato la Capitale",
+      "url": "https://www.romatoday.it/dossier/sociale/musica-balcanica-roma-locali.html",
+      "source": "RomaToday",
+      "published": "2026-11-07T04:09:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Atac, i sindacati contro il direttore generale: \"Basta chiamare assenteisti gli autisti\"",
+      "url": "https://www.romatoday.it/politica/atac-risposta-sindacati-assenteismo.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T22:05:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Roma, neonato trovato in una chiesa. Era all'interno di una borsa vicino all'altare",
+      "url": "https://www.romatoday.it/cronaca/neonato-ritrovato-in-chiesa-oggi-6-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T18:38:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Fiamme a via di Salone: autocarro prende fuoco mentre è in marcia",
+      "url": "https://www.romatoday.it/cronaca/incendio-furgone-via-di-salone.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T17:12:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Atac, dopo undici anni arrivano le nuove Rsu e Rls",
+      "url": "https://www.romatoday.it/economia/elezioni-rsu-rls-atac.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T17:04:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Il Roma Outlet Village è realtà. Taglio del nastro per il nuovo spazio shopping a nord della Capitale",
+      "url": "https://www.romatoday.it/economia/nuovo-outlet-roma-sant-oreste.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T16:46:16Z",
+      "category": "general"
+    },
+    {
+      "title": "La Mic card si amplia: sconti anche per concerti, teatri e spettacoli dal vivo. Tutte le novità",
+      "url": "https://www.romatoday.it/politica/mic-card-roma-ampliamento-spettacoli-cosa-prevede.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T16:33:00Z",
       "category": "events"
     },
     {
-      "title": "Gianmarco Emiliani morto in un incidente stradale a 24 anni, l'ipotesi del pirata della strada",
-      "url": "https://www.romatoday.it/cronaca/incidente-stradale/gianmarco-emiliani-morto-5-novembre-2026.html",
+      "title": "Caos esami del sangue a Roma, mancano i reagenti e i referti tardano ad arrivare: cosa sta succedendo",
+      "url": "https://www.romatoday.it/politica/referti-esame-sangue-roma-ritardi-perche.html",
       "source": "RomaToday",
-      "published": "2026-11-06T05:27:06Z",
+      "published": "2026-11-06T15:59:00Z",
       "category": "general"
     },
     {
-      "title": "È tornato a Roma Donato Ferdori, il professore arrestato in Cisgiordania: \"Ho subito violenze\"",
-      "url": "https://www.romatoday.it/cronaca/donato-ferdori-arrestato-cisgiordania-violenze.html",
+      "title": "Morta la figlia di Barbara Cullari. Il dramma otto giorni dopo la scomparsa della mamma",
+      "url": "https://www.romatoday.it/cronaca/morta-figlia-barbara-cullari.html",
       "source": "RomaToday",
-      "published": "2026-11-06T05:01:00Z",
+      "published": "2026-11-06T15:54:00Z",
       "category": "general"
     },
     {
-      "title": "L'assessore Veloccia: \"I privati non ci condizionano, ma il pubblico non può fare tutto da solo\"",
-      "url": "https://www.romatoday.it/cronaca/inchiesta-di-mappatura-dei-fondi-immobiliare-parla-l-assessore-veloccia.html",
+      "title": "Castelverde calcio, Galasso si improvvisa portiere e para un rigore: “Contento del pari”",
+      "url": "https://www.romatoday.it/sport/calcio/castelverde-calcio-galass-portiere-para-rigore.html",
       "source": "RomaToday",
-      "published": "2026-11-06T04:45:00Z",
+      "published": "2026-11-06T15:44:53Z",
       "category": "general"
     },
     {
-      "title": "La finanziarizzazione di Roma. Chi comanda, quanti miliardi muovono e la mappa dei fondi (e dei 4.600 beni gestiti)",
-      "url": "https://www.romatoday.it/dossier/economia/fondi-immobiliari-mappa-completa-analisi.html",
+      "title": "Liposuzione e aumento del seno col proprio grasso: la maxi ricerca tra Roma e Atene rivela rischi e benefici",
+      "url": "https://www.romatoday.it/attualita/liposuzione-lipofilling-seno-studio-tor-vergata.html",
       "source": "RomaToday",
-      "published": "2026-11-06T04:15:00Z",
+      "published": "2026-11-06T15:26:00Z",
       "category": "general"
     },
     {
-      "title": "Spari del 25 aprile contro coppia con fazzoletto dell'Anpi. Eitan Bondì condannato a 4 mesi",
-      "url": "https://www.romatoday.it/cronaca/eitan-bondi-condanna-spari-25-aprile.html",
+      "title": "Tevere, ripulita la sponda destra del fiume: da Marconi a ponte Sublicio arrivano telecamere e illuminazione",
+      "url": "https://www.romatoday.it/zone/garbatella/san-paolo/tevere-banchina-sinistra-parco-illuminazione-telecamere.html",
       "source": "RomaToday",
-      "published": "2026-11-05T22:53:00Z",
+      "published": "2026-11-06T15:21:23Z",
       "category": "general"
     },
     {
-      "title": "Baracche nascoste nella fitta vegetazione del parco: tre persone allontanate e randagio in canile",
-      "url": "https://www.romatoday.it/cronaca/insediamento-abusivo-cani-parco-cecchignola-ovest.html",
+      "title": "Roma, rubate 40 valigie a una scolaresca del Belgio. Il segnale gps delle cuffiette tradisce i ladri",
+      "url": "https://www.romatoday.it/cronaca/furto-bagagli-gita-scuola-roma.html",
       "source": "RomaToday",
-      "published": "2026-11-05T21:26:00Z",
+      "published": "2026-11-06T15:20:00Z",
       "category": "general"
     },
     {
-      "title": "Real Tor Bella Monaca calcio, Rosato e il big match: “Col Tor Lupara una partita importante”",
-      "url": "https://www.romatoday.it/sport/calcio/real-tor-bella-monaca-calcio-rosato-tor-lupara-partita-importante.html",
+      "title": "Municipio VII inaugurata una nuova area giochi: ecco in quali quartieri sono previsti i prossimi interventi",
+      "url": "https://www.romatoday.it/politica/municipio-vii-nuova-area-giochi-prossimi-interventi.html",
       "source": "RomaToday",
-      "published": "2026-11-05T18:10:42Z",
+      "published": "2026-11-06T15:11:00Z",
       "category": "general"
     },
     {
-      "title": "Lvpa Frascati calcio, Ferrazza: “Tra un mese capiremo qualcosa di più sui nostri obiettivi”",
-      "url": "https://www.romatoday.it/sport/calcio/lvpa-frascati-calcio-ferrazza-tra-un-mese-capiremo-nostri-obiettivi.html",
+      "title": "Metro D, la Giunta verso l'approvazione del nuovo tracciato e intanto si valuta l'aiuto dei privati",
+      "url": "https://www.romatoday.it/politica/metro-d-roma-progetto-tracciato-accordo-privati.html",
       "source": "RomaToday",
-      "published": "2026-11-05T18:09:25Z",
+      "published": "2026-11-06T15:02:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Paura a Frascati: automobilista urta una macchina parcheggiata e provoca il crollo di un muro",
+      "url": "https://www.romatoday.it/cronaca/crollo-muro-frascati-incidente.html",
+      "source": "RomaToday",
+      "published": "2026-11-06T14:57:00Z",
       "category": "general"
     },
     {
-      "title": "Polisportiva Borghesiana, Governale e il settore karate: “Stiamo preparando la prima gara”",
-      "url": "https://www.romatoday.it/sport/altro/polisportiva-borghesiana-governale-karate-preparando-prima-gara.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T18:06:37Z",
-      "category": "general"
-    },
-    {
-      "title": "Vis Casilina calcio, Ignagni: “Sono sicuro che ci toglieremo delle belle soddisfazioni”",
-      "url": "https://www.romatoday.it/sport/calcio/vis-casilina-calcio-ignagni-ci-toglieremo-belle-soddisfazioni.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T18:04:20Z",
-      "category": "general"
-    },
-    {
-      "title": "Vis Santa Maria delle Mole calcio, Menichelli: “Era importante restare imbattuti”",
-      "url": "https://www.romatoday.it/sport/calcio/vis-santa-maria-mole-calcio-menichelli-importante-restare-imbattuti.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:58:13Z",
-      "category": "general"
-    },
-    {
-      "title": "Rocca Priora calcio, primo urrà. Gatta: “Contento per i ragazzi, ora serve continuare”",
-      "url": "https://www.romatoday.it/sport/calcio/rocca-priora-calcio-under-15-primo-urra-gatta-contento-.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:56:33Z",
-      "category": "general"
-    },
-    {
-      "title": "La vicina sente odore di gas: ragazza trovata morta in casa all'Appio Latino",
-      "url": "https://www.romatoday.it/cronaca/ragazza-morta-appio-latino.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:37:39Z",
-      "category": "general"
-    },
-    {
-      "title": "I commercianti di via dei Prati Fiscali vogliono creare la \"via del Design\"",
-      "url": "https://www.romatoday.it/zone/montesacro/conca-d-oro/zarineh-piermarini-tornatore-via-design.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:16:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Microsoft avvia il terzo taglio di personale in 3 anni: a Roma licenziati ingegneri per fare spazio all'IA",
-      "url": "https://www.romatoday.it/economia/microsoft-esuberi-roma.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:14:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Tre Fontane, Roma Capitale perde l'asta contro Todini: \"Ma lì non si potrà costruire\"",
-      "url": "https://www.romatoday.it/politica/roma-capitale-perde-asta-terreni-tre-fontane.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:09:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Pomezia, maxi evasione: confiscati beni per oltre un milione di euro a due imprenditori",
-      "url": "https://www.romatoday.it/cronaca/evasione-confisca-beni-imprenditori-pomezia.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T17:03:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Parioli, assegnato l’ex Panamino chiuso da quattro anni. Ecco chi ha ottenuto la gestione",
-      "url": "https://www.romatoday.it/zone/parioli/nuovo-gestore-ex-panamino-parioli.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T16:55:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Onorato, le primarie e il futuro in giunta: “Gualtieri non ha chiesto le mie dimissioni”",
-      "url": "https://www.romatoday.it/politica/alessandro-onorato-dimissioni-primarie.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T16:11:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Tradito dalle consegne a domicilio: arrestato a Barcellona il narcos Francesco Silenti",
-      "url": "https://www.romatoday.it/cronaca/arresto-francesco-silenti-narcotraffico.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T16:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Da ex distributore a spazio per il quartiere: la casa del parco di Centocelle è pronta ad aprire",
-      "url": "https://www.romatoday.it/politica/casa-parco-centocelle-apertura-quando.html",
-      "source": "RomaToday",
-      "published": "2026-11-05T15:59:00Z",
-      "category": "general"
+      "title": "A CASAL BRUCIATO, DAL 17 NOVEMBRE LA LINEA 448 ESTENDE IL PERCORSO",
+      "url": "https://www.atac.roma.it/tempo-reale/a-casal-bruciato--dal-9-novembre-la-linea-448-estende-il-percorso",
+      "source": "ATAC",
+      "published": "2026-11-06T09:35:29Z",
+      "category": "transport"
     },
     {
       "title": "Domenica 8 NOVEMBRE - evento sportivo “Rome 15K e Rome 5k”- tutte le informazioni sul trasporto pubblico",
@@ -217,6 +224,6 @@
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
     "Romeing": 4,
-    "ATAC": 1
+    "ATAC": 2
   }
 }
