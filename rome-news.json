@@ -1,174 +1,195 @@
 {
-  "updated": "2026-11-09T07:44:50Z",
+  "updated": "2026-11-10T07:28:37Z",
   "automatic": true,
   "articles": [
     {
-      "title": "Diwali 2026 a Roma, una giornata tra musica indiana, spiritualità e cinema",
-      "url": "https://www.romatoday.it/eventi/diwali-2026-concerto-musica-indiana-documentario-ayurveda.html",
+      "title": "Dal colloquio alla consegna del referto: la qualità certificata come garanzia nei test genetici",
+      "url": "https://www.romatoday.it/speciale/referto-qualita-certificata-test-genetici.html",
       "source": "RomaToday",
-      "published": "2026-11-09T09:00:00Z",
+      "published": "2026-11-10T09:00:00Z",
       "category": "general"
     },
     {
-      "title": "Paolo Kessisoglu porta Closer al Teatro Ambra Jovinelli",
-      "url": "https://www.romatoday.it/eventi/closer-ambra-jovinelli.html",
+      "title": "Attacco hacker alla Direzione investigativa antimafia: \"Nessun dato è stato rubato\"",
+      "url": "https://www.romatoday.it/cronaca/falso-attacco-hacker-dia.html",
       "source": "RomaToday",
-      "published": "2026-11-09T07:30:00Z",
+      "published": "2026-11-10T07:12:54Z",
+      "category": "general"
+    },
+    {
+      "title": "Omicidio Stefano Cena, la moglie del giostraio: \"Facevano a gara a chi menava di più\"",
+      "url": "https://www.romatoday.it/cronaca/omicidio-stefano-cena-moglie-giostraio-testimonianza.html",
+      "source": "RomaToday",
+      "published": "2026-11-10T06:51:30Z",
+      "category": "general"
+    },
+    {
+      "title": "Incidente all'Eur, la mamma di Jane: \"C'è un testimone. Un'auto ha tagliato la strada alla moto guidata da Achille\"",
+      "url": "https://www.romatoday.it/cronaca/incidente-stradale/achille-scognamillo-mamma-jane-testimone.html",
+      "source": "RomaToday",
+      "published": "2026-11-10T06:00:36Z",
+      "category": "general"
+    },
+    {
+      "title": "\"Se pijamo tutta Civitavecchia\". Ecco il piano del broker della cocaina per conquistare il litorale",
+      "url": "https://www.romatoday.it/dossier/criminalita/piazze-spaccio-civitavecchia-santa-marinella-cerveteri.html",
+      "source": "RomaToday",
+      "published": "2026-11-10T04:27:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Da rudere a nido di quartiere: un piano da 2,6 milioni migliorare servizi (e viabilità) a Tor Fiscale",
+      "url": "https://www.romatoday.it/zone/sangiovanni/arco-di-travertino/da-rudere-a-nido-di-quartiere-un-piano-da-2-6-milioni-migliorare-servizi-e-viabilita-a-tor-fiscale.html",
+      "source": "RomaToday",
+      "published": "2026-11-10T04:17:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Cotral, Astral, Lazio Innova e le altre. Quanto guadagnano i manager delle società della Regione Lazio",
+      "url": "https://www.romatoday.it/dossier/potere/cotral-astral-lazio-innova.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T23:31:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Viale Alessandrino, al via i lavori notturni sulla pavimentazione stradale",
+      "url": "https://www.romatoday.it/zone/centocelle/alessandrino/viale-alessandrino-lavori-notturni-pavimentazione-stradale.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T17:40:35Z",
+      "category": "general"
+    },
+    {
+      "title": "Manca la tettoia al “Mercato Nuovo Cinecittà”: scatta l'interrogazione in Campidoglio",
+      "url": "https://www.romatoday.it/zone/tuscolano/appio-claudio/mercato-nuovo-cinecitta-rimasto-senza-copertura.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T17:38:00Z",
+      "category": "general"
+    },
+    {
+      "title": "\"Ci sono tre DNA e una persona informata sui fatti\". Omicidio Pasolini, depositato un nuovo esposto a Roma",
+      "url": "https://www.romatoday.it/cronaca/omicidio-pasolini-nuove-indagini.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T16:56:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Rocca in visita al Villaggio Fondazione Roma: assistenza gratuita per 120 malati di Alzheimer e Parkinson",
+      "url": "https://www.romatoday.it/attualita/rocca-visita-villaggio-fondazione-roma-alzheimer-parkinson.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T16:39:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ostia, c'è una buca come nascondiglio della droga davanti alla stazione",
+      "url": "https://www.romatoday.it/cronaca/ostia-droga-buca-stazione-lido.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T16:15:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Blocco del traffico a Roma, il 15 novembre sarà domenica ecologica",
+      "url": "https://www.romatoday.it/attualita/blocco-traffico-roma-15-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T16:14:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Ponte 2 Giugno chiuso stanotte per un guasto meccanico all'impalcato",
+      "url": "https://www.romatoday.it/zone/fiumicino/fiumicino/ponte-2-giugno-chiusura-interventi-urgenti.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:50:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Totti al Fenerbahce? Dalla Turchia la bomba sul futuro sull'ex capitano della Roma: cosa c'è di vero",
+      "url": "https://www.romatoday.it/sport/calcio/totti-fenerbahce-cosa-succede.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:46:08Z",
+      "category": "general"
+    },
+    {
+      "title": "Truffe all'Ama, regali e finti malati a caccia: nove indagati nella maxi inchiesta sui rifiuti",
+      "url": "https://www.romatoday.it/cronaca/truffa-ama-dipendenti-infedeli-rifiuti.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:31:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Casal Bruciato, la linea bus 448 cambia percorso con tre nuove fermate",
+      "url": "https://www.romatoday.it/zone/tiburtino/casal-bruciato/casal-bruciato-linea-bus-448-nuove-fermate.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:25:17Z",
+      "category": "transport"
+    },
+    {
+      "title": "Copagri Lazio, Guido Colasanti confermato presidente al congresso regionale",
+      "url": "https://www.romatoday.it/economia/copagri-lazio-colasanti-confermato-presidente-rieti.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:23:57Z",
+      "category": "general"
+    },
+    {
+      "title": "Spaccio a Roma, blitz da Tor Bella Monaca alla Tiburtina: 7 arresti",
+      "url": "https://www.romatoday.it/cronaca/7-arresti-spaccio-tor-bella-monaca-ponte-di-nona.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:14:00Z",
+      "category": "general"
+    },
+    {
+      "title": "È morto Marco Moretti, lutto nella Asl Roma 1",
+      "url": "https://www.romatoday.it/cronaca/marco-moretti-morto-asl-roma-1.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:10:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ostia, completata la pista ciclabile: migliora il contesto circostante e l'intermodalità",
+      "url": "https://www.romatoday.it/zone/ostia/ostia/ciclabile-castel-fusano-lungomare.html",
+      "source": "RomaToday",
+      "published": "2026-11-09T15:08:30Z",
+      "category": "general"
+    },
+    {
+      "title": "Roma Gospel Festival 2026: Dates and Lineup at the Auditorium Parco della Musica",
+      "url": "https://www.romeing.it/roma-gospel-festival/",
+      "source": "Romeing",
+      "published": "2026-11-09T14:38:24Z",
       "category": "events"
     },
     {
-      "title": "A Roma un weekend tra artigianato, vintage e creatività: oltre 50 espositori",
-      "url": "https://www.romatoday.it/eventi/unique-market-roma-2026-date-orari.html",
+      "title": "Iva Zanicchi in \"Viva la Mamma!\" al Teatro Manzoni",
+      "url": "https://www.romatoday.it/eventi/iva-zanicchi-viva-la-mamma-teatro-manzoni.html",
       "source": "RomaToday",
-      "published": "2026-11-09T07:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Investito mentre andava in bici con il nipotino, morto 65enne di Ladispoli",
-      "url": "https://www.romatoday.it/cronaca/incidente-stradale/claudio-moretti-investito-bici-nipote.html",
-      "source": "RomaToday",
-      "published": "2026-11-09T06:18:10Z",
-      "category": "general"
-    },
-    {
-      "title": "Monte Mario, colpo in tabaccheria con la pistola: rapinatore finisce a Regina Coeli",
-      "url": "https://www.romatoday.it/cronaca/monte-mario-colpo-in-tabaccheria-con-la-pistola-rapinatore-finisce-a-regina-coeli.html",
-      "source": "RomaToday",
-      "published": "2026-11-09T06:00:53Z",
-      "category": "general"
-    },
-    {
-      "title": "Caduta durante l'arrampicata sul monte Soratte: 38enne romano recuperato dall'elisoccorso",
-      "url": "https://www.romatoday.it/cronaca/arrampicatore-ferito-monte-soratte-elisoccorso.html",
-      "source": "RomaToday",
-      "published": "2026-11-09T05:31:39Z",
-      "category": "general"
-    },
-    {
-      "title": "Aventino: lascia il fornello acceso e provoca un incendio, 89enne in trappola chiama il 112",
-      "url": "https://www.romatoday.it/cronaca/incendio-aventino-via-felice-nerini.html",
-      "source": "RomaToday",
-      "published": "2026-11-09T05:14:41Z",
-      "category": "alerts"
-    },
-    {
-      "title": "Dentro un mercatino abusivo di Roma. Tra cibo scaduto e vestiti dei cassonetti, tutta la fatica di arrivare a fine mese",
-      "url": "https://www.romatoday.it/dossier/sociale/mercatini-abusivi-roma.html",
-      "source": "RomaToday",
-      "published": "2026-11-09T04:19:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Far west in strada a Centocelle: l'agguato, gli spari e l'aggressione con un machete. Ferito un 19enne",
-      "url": "https://www.romatoday.it/cronaca/cosa-e-successo-centocelle-domenica-8-novembre.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T17:57:45Z",
-      "category": "general"
-    },
-    {
-      "title": "Cinghiali al parco delle Valli, la denuncia dei cittadini e la polemica di FdI: \"Vergogna, si intervenga\"",
-      "url": "https://www.romatoday.it/zone/montesacro/conca-d-oro/cinghiali-parco-delle-valli.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T16:15:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Vent’anni a fare l’attore. Adesso invece cucina piatti di tutte le regioni nel suo bistrot a Roma",
-      "url": "https://www.romatoday.it/cibo/golinos-boutique-bistrot-andrea-golino-chef.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T15:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Valco San Paolo, incendio nella casa famiglia Il Tetto: \"Aiutateci a ripartire\"",
-      "url": "https://www.romatoday.it/cronaca/incendio-il-tetto-raccolta-fondi.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T13:58:00Z",
-      "category": "alerts"
-    },
-    {
-      "title": "Tor Sapienza, trovato un cadavere vicino all'ex palazzo occupato",
-      "url": "https://www.romatoday.it/cronaca/cadavere-via-raffaele-costi-8-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T13:28:02Z",
-      "category": "general"
-    },
-    {
-      "title": "Napoli-Lazio 1-1: Pedraza entra e fa autogol, Gattuso pareggia contro Allegri ma resta primo e imbattuto",
-      "url": "https://www.romatoday.it/sport/calcio/napoli-lazio-voti-pagelle-8-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T13:24:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Fugge all'alt a bordo di uno scooter e si schianta contro un'auto in sosta: il mezzo era rubato e addosso aveva la droga",
-      "url": "https://www.romatoday.it/cronaca/fuga-scooter-arresto-pusher-camilluccia.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T13:18:00Z",
-      "category": "general"
-    },
-    {
-      "title": "La Regione Lazio stanzia 170mila euro per le carceri del Lazio. Casal del Marmo avrà un nuovo teatro",
-      "url": "https://www.romatoday.it/politica/fondi-regione-lazio-carceri.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T13:03:18Z",
+      "published": "2026-11-09T14:35:02Z",
       "category": "events"
     },
     {
-      "title": "Addio a Cesare Vaciago, figura storica dell'amministrazione italiana. Negli anni '90 guidò Atac e Cotral",
-      "url": "https://www.romatoday.it/cronaca/cesare-vaciago-morto.html",
+      "title": "Il truck di Natale Lego fa tappa a Roma: giochi e attività gratuite a bordo",
+      "url": "https://www.romatoday.it/eventi/camion-natale-lego-roma-quando.html",
       "source": "RomaToday",
-      "published": "2026-11-08T11:26:40Z",
-      "category": "transport"
+      "published": "2026-11-09T14:31:00Z",
+      "category": "events"
     },
     {
-      "title": "Tentato omicidio a Ostia, colpisce un uomo al collo e al volto con un cacciavite: arrestato 40enne",
-      "url": "https://www.romatoday.it/cronaca/tentato-omicidio-ostia-7-novembre-2026.html",
+      "title": "\"Hai tolto i parcheggi, so dove abiti\": l'assessore Gasperini minacciato e strattonato in un cantiere",
+      "url": "https://www.romatoday.it/politica/assessore-luca-gasperini-minacce-parcheggi-via-del-serafico.html",
       "source": "RomaToday",
-      "published": "2026-11-08T11:03:51Z",
+      "published": "2026-11-09T14:25:00Z",
       "category": "general"
     },
     {
-      "title": "Ostia rende omaggio a Claudio Caligari: svelata la targa della piazza in sua memoria",
-      "url": "https://www.romatoday.it/zone/ostia/piazza-claudio-caligari-ostia.html",
+      "title": "Steve Hackett racconta i Genesis all'Auditorium Parco della Musica",
+      "url": "https://www.romatoday.it/eventi/steve-hackett-genesis-auditorium-parco-della-musica-21-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-08T10:43:48Z",
+      "published": "2026-11-09T14:07:47Z",
       "category": "general"
     },
     {
-      "title": "Allestiscono una centrale dello spaccio in casa, arrestati due coniugi",
-      "url": "https://www.romatoday.it/cronaca/arresto-coniugi-gallicano-nel-lazio.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T10:13:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Assalto al liceo occupato: \"Hanno lanciato sedie e banchi contro l'ingresso\"",
-      "url": "https://www.romatoday.it/cronaca/assalto-liceo-nomentano-occupato.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T10:10:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Trucco al bancomat nella via dello shopping, la tecnica del \"cash trapping\" che blocca i contanti",
-      "url": "https://www.romatoday.it/cronaca/tecnica-cash-trapping-via-cola-rienzo.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Metromare, da lunedì 9 novembre partono i nuovi orari. Ecco ogni quanto passerà il treno",
-      "url": "https://www.romatoday.it/politica/metromare-nuovi-orari-lunedi-9-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T09:48:45Z",
-      "category": "transport"
-    },
-    {
-      "title": "Finisce contro un pino al buio e perde la memoria, il Comune rifiuta il risarcimento. La battaglia di Francesco",
-      "url": "https://www.romatoday.it/cronaca/perde-memoria-dopo-incidente-comune-roma-non-paga.html",
-      "source": "RomaToday",
-      "published": "2026-11-08T09:43:00Z",
-      "category": "general"
+      "title": "Live Music in Rome This January: Top Concerts and Venues",
+      "url": "https://www.romeing.it/rome-live-music-concerts-in-january/",
+      "source": "Romeing",
+      "published": "2026-11-09T13:58:07Z",
+      "category": "events"
     },
     {
       "title": "A CASAL BRUCIATO, DAL 17 NOVEMBRE LA LINEA 448 ESTENDE IL PERCORSO",
@@ -183,19 +204,12 @@
       "source": "Romeing",
       "published": "2026-11-02T21:38:46Z",
       "category": "events"
-    },
-    {
-      "title": "13 Wineries near Rome for Wine Tastings and Countryside Stays",
-      "url": "https://www.romeing.it/wineries-near-rome/",
-      "source": "Romeing",
-      "published": "2026-11-01T15:46:23Z",
-      "category": "events"
     }
   ],
   "sources": {
-    "RomaToday": 24,
+    "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 2,
+    "Romeing": 3,
     "ATAC": 1
   }
 }
