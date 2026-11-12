@@ -1,181 +1,188 @@
 {
-  "updated": "2026-11-11T07:32:16Z",
+  "updated": "2026-11-12T07:36:50Z",
   "automatic": true,
   "articles": [
     {
-      "title": "Nuova Lancia Gamma, un viaggio nell'eleganza italiana",
-      "url": "https://www.romatoday.it/eventi/nuova-lancia-gamma-open-day.html",
+      "title": "Quando una gravidanza tarda ad arrivare: perché il tempo è importante",
+      "url": "https://www.romatoday.it/speciale/gravidanza-non-arriva-tempo-pma-fertilita.html",
       "source": "RomaToday",
-      "published": "2026-11-11T07:00:00Z",
+      "published": "2026-11-12T09:00:00Z",
       "category": "general"
     },
     {
-      "title": "Smontavano auto rubate nell'officina clandestina: arrestati padre e figlio",
-      "url": "https://www.romatoday.it/cronaca/auto-rubate-ardea-officina.html",
+      "title": "Da via La Spezia a piazzale Prenestino su due ruote: conclusi i lavori della ciclabile",
+      "url": "https://www.romatoday.it/politica/pista-ciclabile-via-la-spezia-piazzale-prenestino.html",
       "source": "RomaToday",
-      "published": "2026-11-11T06:46:00Z",
+      "published": "2026-11-12T06:00:00Z",
       "category": "general"
     },
     {
-      "title": "Interruzione di energia elettrica nel municipio XIV: le vie interessate",
-      "url": "https://www.romatoday.it/attualita/sospensione-energia-elettrica-roma-11-novembre-2026.html",
+      "title": "La rinascita dell'ex caserma Cerimant: 12 milioni per trasformarla nel polo del cinema di via Prenestina",
+      "url": "https://www.romatoday.it/politica/ex-caserma-cerimant-deposito-cinema.html",
       "source": "RomaToday",
-      "published": "2026-11-11T06:06:12Z",
+      "published": "2026-11-12T05:22:00Z",
       "category": "general"
     },
     {
-      "title": "Incendio a Civitavecchia: fiamme in una villetta, donna intossicata",
-      "url": "https://www.romatoday.it/cronaca/incendio-civitavecchia-via-delle-verbene.html",
+      "title": "Allarmi bomba nella scuole di Roma, la protesta in piazza: “Basta strategia della tensione”",
+      "url": "https://www.romatoday.it/politica/allarmi-bombe-scuole-roma-manifestazione.html",
       "source": "RomaToday",
-      "published": "2026-11-11T05:51:29Z",
+      "published": "2026-11-12T05:01:02Z",
       "category": "alerts"
     },
     {
-      "title": "Blitz dei carabinieri a Roma Est: sequestrati 4,5 chili di cocaina e un fucile clandestino",
-      "url": "https://www.romatoday.it/cronaca/droga-roma-cocaina-fucile-clandestino.html",
+      "title": "La mappa dei mercati di Roma (in crisi): tutti i numeri tra chioschi vuoti e investimenti fatti",
+      "url": "https://www.romatoday.it/dossier/economia/mercati-rionali-numeri-crisi.html",
       "source": "RomaToday",
-      "published": "2026-11-11T05:20:43Z",
+      "published": "2026-11-12T04:35:00Z",
       "category": "general"
     },
     {
-      "title": "\"Ho perso il lavoro, mi hanno promesso 1000 euro\". La storia di Paola, costretta a nascondere la droga \"sennò non campavo\"",
-      "url": "https://www.romatoday.it/dossier/criminalita/droga-nascosta-a-casa-quanto-si-rischia.html",
+      "title": "Dai 30mila di Colleferro ai 300mila di Fiumicino. Redditi e patrimoni dei sindaci della provincia di Roma",
+      "url": "https://www.romatoday.it/dossier/potere/stipendi-sindaci-provincia-roma-classifica.html",
       "source": "RomaToday",
-      "published": "2026-11-11T04:10:00Z",
+      "published": "2026-11-12T04:11:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Maxi truffa sulle fatture false con 64 società \"fantasma\", 30 misure cautelari tra Roma e Latina",
+      "url": "https://www.romatoday.it/cronaca/30-arresti-roma-latina-truffa-fiscale.html",
+      "source": "RomaToday",
+      "published": "2026-11-11T22:58:00Z",
       "category": "general"
     },
     {
-      "title": "Municipio VII tra cantieri chiusi e nuove opere. Laddaga: \"Ecco una mappa interattiva per i cittadini\"",
-      "url": "https://www.romatoday.it/politica/mappa-georeferenziata-municipio-VII-presidente-laddaga.html",
+      "title": "Discarica abusiva lungo l'Aniene: tra sversamenti, cavi elettrici e cinghiali che spargono i rifiuti in giro",
+      "url": "https://www.romatoday.it/zone/montesacro/altre/discarica-tevere-aniene.html",
       "source": "RomaToday",
-      "published": "2026-11-10T21:25:00Z",
+      "published": "2026-11-11T22:36:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Da punto di ritrovo del quartiere a terra di degrado: largo Boccea tra inciviltà e abbandono",
+      "url": "https://www.romatoday.it/zone/aurelio/aurelio/largo-boccea-degrado-volontari-rifiuti.html",
+      "source": "RomaToday",
+      "published": "2026-11-11T20:56:00Z",
       "category": "general"
     },
     {
-      "title": "Villa Pamphilj, i writer non risparmiano nemmeno gli alberi: decine di cedri imbrattati con le bombolette spray",
-      "url": "https://www.romatoday.it/attualita/villa-pamphilj-alberi-imbrattati-vandali.html",
+      "title": "\"Curarsi non può essere una lotteria\": a Roma lo sciopero della Sanità. In piazza medici e infermieri",
+      "url": "https://www.romatoday.it/politica/sciopero-sanita-roma-5-dicembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-10T21:24:00Z",
+      "published": "2026-11-11T20:55:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Eur, una nuova vita per l’ex Padiglione NATO: apre la sede di Microsoft a Roma",
+      "url": "https://www.romatoday.it/attualita/nuova-sede-eur-microsoft-innovazione-digitale-video.html",
+      "source": "RomaToday",
+      "published": "2026-11-11T20:49:00Z",
       "category": "general"
     },
     {
-      "title": "Mercato di Porta Portese, svolta per gli hobbisti: c'è la graduatoria ufficiale",
-      "url": "https://www.romatoday.it/zone/monteverde/monteverde/hobbisti-porta-portese.html",
+      "title": "Strade scolastiche a Roma: la mappa degli interventi e quali nuove vie chiuderanno (finalmente) alle auto",
+      "url": "https://www.romatoday.it/zone/arvalia/portuense/strade-scolastiche-quali-sono-programma-prossime.html",
       "source": "RomaToday",
-      "published": "2026-11-10T21:22:00Z",
+      "published": "2026-11-11T20:48:00Z",
       "category": "general"
     },
     {
-      "title": "Autismo, oltre 80 progetti a Roma per favorire autonomia e inclusione sociale: \"Più di mille i beneficiari\"",
-      "url": "https://www.romatoday.it/politica/progetti-autismo-2026-comune-roma.html",
+      "title": "Casal Bernocchi, arrivano 29 nuovi lampioni: sono attesi da 25 anni",
+      "url": "https://www.romatoday.it/politica/casal-bernocchi-nuovi-lampioni.html",
       "source": "RomaToday",
-      "published": "2026-11-10T21:16:00Z",
+      "published": "2026-11-11T20:47:00Z",
       "category": "general"
     },
     {
-      "title": "Tor Pignattara, scoperto un circolo di gioco d'azzardo clandestino: locale sequestrato",
-      "url": "https://www.romatoday.it/cronaca/locale-chiuso-gioco-azzardo-torpignattara.html",
+      "title": "Galeotta fu la morosità dei circoli \"dem\". In Regione si apre lo scontro totale tra Pd e Fdi",
+      "url": "https://www.romatoday.it/politica/circoli-pd-morosi-scontro-pd-fdi.html",
       "source": "RomaToday",
-      "published": "2026-11-10T19:20:00Z",
+      "published": "2026-11-11T20:45:00Z",
       "category": "general"
     },
     {
-      "title": "Supporto e visite per le future mamme: attivato il nuovo ambulatorio dell'ospedale Grassi di Ostia",
-      "url": "https://www.romatoday.it/attualita/ambulatorio-basso-rischio-ostetrico-grassi-ostia.html",
+      "title": "Banditi armati irrompono nell'autoconcessionario: titolare ferito alla testa",
+      "url": "https://www.romatoday.it/cronaca/rapinatori-concessionaria-via-delle-vigne-ferito-.html",
       "source": "RomaToday",
-      "published": "2026-11-10T18:41:00Z",
+      "published": "2026-11-11T20:35:00Z",
       "category": "general"
     },
     {
-      "title": "Casa a Roma, nuova delibera in Campidoglio: sei nuovi quartieri diventano trasformabili",
-      "url": "https://www.romatoday.it/politica/nuovi-piani-di-zona-trasformabili-quali-sono.html",
+      "title": "\"Bettini è un intrallazzatore, è proprio il male\". Calenda attacca Bettini e fa melina su Gualtieri. Da Azione Roma corrono ai ripari",
+      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/calenda-contro-bettini-intrallazzatore.html",
       "source": "RomaToday",
-      "published": "2026-11-10T17:56:00Z",
+      "published": "2026-11-11T17:49:00Z",
       "category": "general"
     },
     {
-      "title": "Incubo vespe orientalis in un appartamento a Roma. Perché con l'autunno la situazione sta peggiorando",
-      "url": "https://www.romatoday.it/politica/vespe-orientalis-due-nidi-stesso-appartamento.html",
+      "title": "Fontana di Trevi, Roma Capitale e Viacariato rinnovano l'accordo per l'utilizzo delle monetine",
+      "url": "https://www.romatoday.it/politica/fontana-trevi-chi-prende-monetine.html",
       "source": "RomaToday",
-      "published": "2026-11-10T17:36:00Z",
+      "published": "2026-11-11T17:45:44Z",
       "category": "general"
     },
     {
-      "title": "Davide Iacopini lascia il San Camillo, l'attore trasferito al Santa Lucia per la riabilitazione",
-      "url": "https://www.romatoday.it/cronaca/davide-iacopini-come-sta-riabilitazione.html",
+      "title": "Le ruspe entrano in azione a Tor Sapienza: via alla demolizione del \"palazzo del crack\"",
+      "url": "https://www.romatoday.it/politica/demolizione-palazzo-via-tallone-oggi-11-novembre.html",
       "source": "RomaToday",
-      "published": "2026-11-10T17:15:35Z",
+      "published": "2026-11-11T17:42:00Z",
       "category": "general"
     },
     {
-      "title": "Storni a Prati Fiscali, incubo senza fine. \"Gli uccelli sono troppi, per questo i dissuasori non stanno funzionando\"",
-      "url": "https://www.romatoday.it/zone/montesacro/storni-prati-fiscali.html",
+      "title": "Incidente in autostrada: si ribalta con il furgone, interviene l'elisoccorso",
+      "url": "https://www.romatoday.it/cronaca/incidente-stradale/autostrada-11-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-10T17:11:00Z",
+      "published": "2026-11-11T17:35:33Z",
       "category": "general"
     },
     {
-      "title": "Roma ha bisogno di 600 medici di base: la mappa delle carenze nelle Asl e quartiere per quartiere",
-      "url": "https://www.romatoday.it/politica/medici-di-base-roma-dove-mancano-2026.html",
+      "title": "\"Livia\" è il nuovo brano di Gazzelle fuori a sorpresa per tutti i fan",
+      "url": "https://www.romatoday.it/eventi/cultura/livia-gazzelle-nuovo-brano.html",
       "source": "RomaToday",
-      "published": "2026-11-10T17:07:00Z",
+      "published": "2026-11-11T17:34:00Z",
       "category": "general"
     },
     {
-      "title": "È morta Nicoletta Irato",
-      "url": "https://www.romatoday.it/cronaca/morta-nicoletta-irato-sindaca-mazzano-romano.html",
+      "title": "Finti investimenti in Bitcoin: 85enne romano cade nella trappola durata due anni",
+      "url": "https://www.romatoday.it/cronaca/truffa-bitcoin-fondi-poste.html",
       "source": "RomaToday",
-      "published": "2026-11-10T16:59:00Z",
+      "published": "2026-11-11T17:27:00Z",
       "category": "general"
     },
     {
-      "title": "Roma Capitale acquista l'ex residence Borgo del Poggio e le case sequestrate a Tor Vergata",
-      "url": "https://www.romatoday.it/politica/roma-capitale-acquisto-case-sequestrate-via-fassini.html",
+      "title": "Precari della ricerca in piazza a Roma contro i tagli della manovra di bilancio",
+      "url": "https://www.romatoday.it/economia/ricercatori-precari-protesta-11-novembre.html",
       "source": "RomaToday",
-      "published": "2026-11-10T16:57:00Z",
+      "published": "2026-11-11T17:25:00Z",
       "category": "general"
     },
     {
-      "title": "Via Sannio, arrivati altri 650mila euro per completare il mercato. Laddaga: \"Pronto per la fine della consiliatura\"",
-      "url": "https://www.romatoday.it/politica/restyling-mercato-via-sannio-ultimi-stanziamenti-quanto-costa.html",
+      "title": "Obbligo catene da neve e gomme invernali dal 15 novembre. Ecco le strade interessate",
+      "url": "https://www.romatoday.it/attualita/obbligo-catene-lazio-2026-2027-elenco-strade.html",
       "source": "RomaToday",
-      "published": "2026-11-10T16:47:00Z",
+      "published": "2026-11-11T17:21:00Z",
       "category": "general"
     },
     {
-      "title": "Montespaccato, riaperta la Biblioteca Cornelia, Gualtieri: \"Una delle più belle di Roma\"",
-      "url": "https://www.romatoday.it/zone/aurelio/monte-spaccato/blbioteca-cornelia-riapertura-piu-belle-roma.html",
+      "title": "La Roma prova il colpo Scudetto. Gasperini sogna il figliol prodigo Lookman",
+      "url": "https://www.romatoday.it/sport/calciomercato/roma-lookman-gasperini-atletico-madrid.html",
       "source": "RomaToday",
-      "published": "2026-11-10T16:44:00Z",
+      "published": "2026-11-11T17:03:00Z",
       "category": "general"
     },
     {
-      "title": "Carta d'identità elettronica a Roma: open day sabato 14 e domenica 15 novembre",
-      "url": "https://www.romatoday.it/attualita/carta-identita-roma-open-day-14-15-novembre-2026.html",
+      "title": "Cosa succede nelle scuole di Roma dopo l'allarme bomba: i controlli in corso e i timori dei presidi",
+      "url": "https://www.romatoday.it/cronaca/scuole-chiuse-roma-domani-12-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-10T16:09:16Z",
+      "published": "2026-11-11T16:49:48Z",
       "category": "general"
     },
     {
-      "title": "Piccole incisioni e visione 3D: a Roma arriva il robot che rivoluziona gli interventi sui tumori",
-      "url": "https://www.romatoday.it/attualita/nuovo-robot-tumori-istituto-regina-elena-roma.html",
-      "source": "RomaToday",
-      "published": "2026-11-10T16:02:00Z",
-      "category": "general"
-    },
-    {
-      "title": "La Regione Lazio ha tagliato l'Irpef per tre milioni di cittadini. A Roma interessa il 70% dei contribuenti",
-      "url": "https://www.romatoday.it/politica/taglio-irpef-regione-lazio-chi-beneficia.html",
-      "source": "RomaToday",
-      "published": "2026-11-10T15:59:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Blitz all'alba, fumogeni e presidi barricati: nuove scuole occupate a Roma. La mappa",
-      "url": "https://www.romatoday.it/politica/scuole-occupate-oggi-roma-10-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-10T15:40:00Z",
-      "category": "general"
+      "title": "Fayum Portraits at Rome’s Ara Pacis: Faces from Ancient Egypt",
+      "url": "https://www.romeing.it/fayum-portraits-at-romes-ara-pacis-faces-from-ancient-egypt/",
+      "source": "Romeing",
+      "published": "2026-11-11T16:24:13Z",
+      "category": "events"
     },
     {
       "title": "Trajan’s Baths: Visiting the Painted City and the Great Mosaic Beneath the Oppian Hill",
@@ -223,7 +230,7 @@
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 5,
+    "Romeing": 6,
     "ATAC": 1
   }
 }
