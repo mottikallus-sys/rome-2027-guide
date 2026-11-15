@@ -1,12 +1,173 @@
 {
-  "updated": "2026-11-14T07:22:09Z",
+  "updated": "2026-11-15T07:24:23Z",
   "automatic": true,
   "articles": [
+    {
+      "title": "Rapina a mano armata nel negozio di Andreas Muller (mentre lui è al Grande Fratello): rubate carte Pokémon",
+      "url": "https://www.romatoday.it/cronaca/rapina-negozio-andreas-muller-pokemon.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T07:02:39Z",
+      "category": "general"
+    },
+    {
+      "title": "Oggi blocco del traffico a Roma. Tutte le informazioni: fasce orarie, deroghe e divieti",
+      "url": "https://www.romatoday.it/attualita/blocco-traffico-roma-oggi-15-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T06:00:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "\"I nostri bambini si ammalano sempre più spesso di tumori rari\": cosa sta succedendo tra Colli Aniene e Tiburtina",
+      "url": "https://www.romatoday.it/dossier/sanita/tumori-rari-bambini-colli-aniene-che-succede.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T05:33:00Z",
+      "category": "general"
+    },
+    {
+      "title": "La rinascita dell'ex Borghetto degli artigiani, in arrivo altri 150mila euro per il parco pubblico",
+      "url": "https://www.romatoday.it/politica/ex-borghetto-artigiani-nuovi-fondi-parco.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T05:18:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Tor Bella Monaca, gli abitanti del comparto R5: \"Alle spalle del cantiere finito, cumuli di spazzatura e topi\"",
+      "url": "https://www.romatoday.it/zone/torri/tor-bella-monaca/topi-case-popolari-periferia-tor-bella-monaca-video.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T05:15:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Non solo famiglia nel bosco. Il mondo intorno all’Inpef di viale Trastevere, tra pro-life, religione e politica",
+      "url": "https://www.romatoday.it/dossier/potere/inpef-trasteve-cosa-ce-dietro.html",
+      "source": "RomaToday",
+      "published": "2026-11-15T04:56:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Romanina: i ladri seriali di adesivo per dentiere, trovati con il bagagliaio pieno di refurtiva",
+      "url": "https://www.romatoday.it/cronaca/ladri-seriali-adesivo-dentiere-romanina.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T18:42:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Fermato con quattro migranti in auto: passeur romano arrestato al confine con la Slovenia",
+      "url": "https://www.romatoday.it/cronaca/passeur-romano-migranti-confine-slovenia.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T16:48:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Termovalorizzatore di Santa Palomba, la Regione accoglie la richiesta dei sindaci: sì al rappresentante sul monitoraggio ambientale",
+      "url": "https://www.romatoday.it/politica/termovalorizzatore-di-santa-palomba-rappresentante-comuni-piano-sanitario.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T16:37:35Z",
+      "category": "general"
+    },
+    {
+      "title": "The 2027 Michelin-starred restaurants in Rome",
+      "url": "https://www.romeing.it/michelin-starred-restaurants-rome/",
+      "source": "Romeing",
+      "published": "2026-11-14T16:21:27Z",
+      "category": "events"
+    },
+    {
+      "title": "Vicolo dell'Acquedotto Felice, al via il senso unico: l'intervento atteso che migliora la viabilità",
+      "url": "https://www.romatoday.it/zone/sangiovanni/arco-di-travertino/modiche-viabilita-tor-fiscale.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T15:56:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Incidente sulla via Appia a Velletri: muore 65enne in sella ad una Vespa",
+      "url": "https://www.romatoday.it/cronaca/incidente-stradale/morto-appia-velletri-14-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T15:09:30Z",
+      "category": "general"
+    },
+    {
+      "title": "Maxi sequestro di prodotti Apple contraffatti al Tiburtino: trovati oltre 32mila articoli in un magazzino",
+      "url": "https://www.romatoday.it/cronaca/magazzino-tiburtino-apple-contraffatti.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T13:50:43Z",
+      "category": "general"
+    },
+    {
+      "title": "Domani blocco del traffico a Roma: ecco chi può e chi non può circolare",
+      "url": "https://www.romatoday.it/attualita/blocco-traffico-roma-domani-15-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T13:25:19Z",
+      "category": "transport"
+    },
+    {
+      "title": "Calamita e carta stagnola per svaligiare i negozi Conpìbel e Max Factory, sgominata banda di latinos",
+      "url": "https://www.romatoday.it/cronaca/banda-ladri-negozi-nuova-tor-vergata.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T13:16:46Z",
+      "category": "general"
+    },
+    {
+      "title": "Rifiuti, dalla Regione Lazio 9 milioni ai comuni che ospitano termovalorizzatori e discariche",
+      "url": "https://www.romatoday.it/politica/rifiuti-regione-lazio-9-milioni-ristoro-comuni-termovalorizzatori.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T12:55:15Z",
+      "category": "general"
+    },
+    {
+      "title": "Affitti brevi, la protesta arriva in Campidoglio: \"Serve subito un regolamento comunale\"",
+      "url": "https://www.romatoday.it/zone/centro/stop-affitti-brevi-protesta-campidoglio-chiesto-regolamento.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T11:34:51Z",
+      "category": "alerts"
+    },
+    {
+      "title": "Lavori a Termini, cambia la circolazione dei treni: tutte le informazioni",
+      "url": "https://www.romatoday.it/attualita/modiche-treni-termini-16-21-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T11:12:34Z",
+      "category": "general"
+    },
+    {
+      "title": "Finte poliziotte alla porta per ritirare 200mila euro, ma è tutto registrato: l'audio della truffa sventata a Roma",
+      "url": "https://www.romatoday.it/cronaca/truffa-finti-poliziotti-roma-audio.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T10:45:09Z",
+      "category": "general"
+    },
+    {
+      "title": "Metro C, la stazione Colosseo è un modello nazionale: vince il premio IN/Architettura 2026",
+      "url": "https://www.romatoday.it/politica/stazione-colosseo-metro-c-premio-in-architettura-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T10:29:40Z",
+      "category": "transport"
+    },
+    {
+      "title": "Accoltellato alla schiena chiede aiuto in strada, carabinieri seguono la scia di sangue e arrestano un 25enne",
+      "url": "https://www.romatoday.it/cronaca/accoltellato-schiena-san-cesareo.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T10:11:56Z",
+      "category": "general"
+    },
+    {
+      "title": "Incendio a Casal Bruciato: fiamme nel cantiere del parcheggio. Ragazzi salvano la statua della \"Madonnina\" (video)",
+      "url": "https://www.romatoday.it/cronaca/incendio-casal-bruciato-piazza-crivelli.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T09:05:49Z",
+      "category": "alerts"
+    },
     {
       "title": "Lite ai Parioli in pieno giorno: aggredisce il fratello con le forbici al distributore di carburante",
       "url": "https://www.romatoday.it/cronaca/lite-parioli-fratelli-distributore-piazza-euclide.html",
       "source": "RomaToday",
       "published": "2026-11-14T07:42:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Omicidio a Roma: ucciso in strada con una coltellata al torace, caccia al killer",
+      "url": "https://www.romatoday.it/cronaca/omicidio-torpignattara-13-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-14T07:19:33Z",
       "category": "general"
     },
     {
@@ -24,165 +185,11 @@
       "category": "general"
     },
     {
-      "title": "Atac, Paolo Aielli prende il posto (ad interim) di Stramaccioni. Mario Marinelli sarà il dirigente operativo",
-      "url": "https://www.romatoday.it/politica/paolo-aielli-responsabile-personale-atac-interim.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:25:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Povertà a Roma, una famiglia su tre sta peggio e il caro-affitti spinge fuori dal Raccordo. I dati del rapporto Caritas 2026",
-      "url": "https://www.romatoday.it/politica/rapporto-poverta-caritas-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:24:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Olimpiadi dei centri anziani, a Garbatella 32 squadre da tutta Roma per il torneo di burraco",
-      "url": "https://www.romatoday.it/attualita/olimpiadi-anziani-roma-municipi-garbatella-burraco-video.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:20:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Sciopero taxi, l'incontro al ministero non convince: confermate mobilitazione e protesta a Roma",
-      "url": "https://www.romatoday.it/politica/confermato-sciopero-taxi-roma-15-dicembre.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:19:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Cyberattacchi e allarmi bomba, la Regione blinda gli ospedali del Lazio: il piano",
-      "url": "https://www.romatoday.it/politica/attacchi-hacker-ospedali-asl-misure-sicurezza-lazio.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:19:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Generazione microcar. Status symbol, costi e pericoli della mobilità romana che piace ai giovanissimi (e non solo)",
-      "url": "https://www.romatoday.it/dossier/sociale/minicar-roma-quadricicli-leggeri-pesanti.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T05:17:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Ecco a chi vanno i 390 milioni di fondi pubblici (extra) per la sanità convenzionata di Roma",
-      "url": "https://www.romatoday.it/dossier/sanita/quasi-390-milioni-di-fondi-pubblici.html",
-      "source": "RomaToday",
-      "published": "2026-11-14T02:10:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Una pistola clandestina a guardia di una centrale dello spaccio fai da te",
-      "url": "https://www.romatoday.it/cronaca/pistola-droga-tor-san-lorenzo-arresto.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T22:31:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Strisce blu, il Codacons lancia il ricorso collettivo al Tar contro i nuovi parcheggi a pagamento di Roma",
-      "url": "https://www.romatoday.it/politica/strisce-blu-roma-ricorso-tar-codacons.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T18:56:00Z",
-      "category": "general"
-    },
-    {
       "title": "IL 20 NOVEMBRE SCIOPERO DI 24 ORE, I DETTAGLI",
       "url": "https://www.atac.roma.it/tempo-reale/il-20-novembre-sciopero-di-24-ore--le-info",
       "source": "ATAC",
       "published": "2026-11-13T18:01:12Z",
       "category": "transport"
-    },
-    {
-      "title": "Kimi Antonelli e Ayrton Senna come Batman e Robin: a Monteverde l'opera dedicata ai campioni di Formula 1",
-      "url": "https://www.romatoday.it/zone/monteverde/antonelli-senna-murales-roma-batman-e-robin.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T18:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Per la sua sicurezza Roma accende la luce: nuovi lampioni e led potenziati in 81 strade della Capitale",
-      "url": "https://www.romatoday.it/politica/piano-illuminazione-pubblica-roma.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T17:44:00Z",
-      "category": "alerts"
-    },
-    {
-      "title": "Bus turistici a Roma, è crisi nera: tariffe triplicate e caro gasolio mettono in ginocchio le aziende",
-      "url": "https://www.romatoday.it/politica/crisi-bus-turistici-roma-aumento-tariffe.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T17:18:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Caos treni a Roma Termini: verifiche tecniche sulla linea, ritardi fino a 90 minuti e convogli fermi",
-      "url": "https://www.romatoday.it/cronaca/ritardi-treni-roma-13-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:58:43Z",
-      "category": "general"
-    },
-    {
-      "title": "Marconi, sequestrati 600 chili di carne mal conservata in un minimarket. Il blitz dopo l'esposto dei cittadini",
-      "url": "https://www.romatoday.it/cronaca/sequestro-carne-minimarket-marconi.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:57:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Ostia, paura nella notte sul bus: 50enne ferito al braccio con un pezzo di vetro",
-      "url": "https://www.romatoday.it/cronaca/aggressione-bus-ostia-piazzale-del-lido.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:55:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Insulta i carabinieri sui social dopo un sequestro di droga: \"La rivendono\". Denunciato 'Mandingo'",
-      "url": "https://www.romatoday.it/cronaca/insulta-carabinieri-su-facebook-denunciato.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:47:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Crisi di nervi in Azione, D'Amato cacciato accusa Calenda e torna nel Pd: \"Visione padronale del partito\"",
-      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/alessio-damato-torna-nel-pd.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:46:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Finocchio, confiscata villa dei Casamonica. Il minisindaco: \"Non c'è spazio per la criminalità\"",
-      "url": "https://www.romatoday.it/cronaca/confisca-villa-casamonica-oggi.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:24:35Z",
-      "category": "general"
-    },
-    {
-      "title": "Fondazione FS: apertura straordinaria della sala presidenziale della stazione di Roma Ostiense",
-      "url": "https://www.romatoday.it/eventi/fondazione-fs-apertura-straordinaria-della-sala-presidenziale-della-stazione-di-roma-ostiense.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T16:04:30Z",
-      "category": "general"
-    },
-    {
-      "title": "Ladri in casa di Debora Caprioglio: \"Mi hanno rubato tutti i ricordi di mia madre\"",
-      "url": "https://www.romatoday.it/cronaca/ladri-casa-debora-caprioglio-gioielli-madre.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T15:48:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Mattone contro la vetrata e furto nella sede dello Spi Cgil a Tor Bella Monaca. Addetta ai servizi costretta a nascondersi",
-      "url": "https://www.romatoday.it/cronaca/furto-spi-cgil-tor-bella-monaca.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T15:44:21Z",
-      "category": "general"
-    },
-    {
-      "title": "La bomba di 3 chili esplosa a Ostia poteva fare una strage, chi l'ha messa è stato pagato 100 euro",
-      "url": "https://www.romatoday.it/cronaca/bomba-ostia-chi-e-stato.html",
-      "source": "RomaToday",
-      "published": "2026-11-13T15:40:00Z",
-      "category": "general"
     },
     {
       "title": "IL PROGRAMMA DEL FINE SETTIMANA SULLA RETE ATAC - POTENZIAMENTO PER L'ECO-DOMENICA",
@@ -218,19 +225,12 @@
       "source": "Romeing",
       "published": "2026-11-10T13:21:48Z",
       "category": "events"
-    },
-    {
-      "title": "Roma Arte in Nuvola",
-      "url": "https://www.romeing.it/roma-arte-in-nuvola/",
-      "source": "Romeing",
-      "published": "2026-11-10T12:51:13Z",
-      "category": "events"
     }
   ],
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 7,
-    "ATAC": 4
+    "Romeing": 8,
+    "ATAC": 3
   }
 }
