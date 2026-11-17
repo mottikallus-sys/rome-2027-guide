@@ -1,181 +1,188 @@
 {
-  "updated": "2026-11-16T09:02:09Z",
+  "updated": "2026-11-17T07:37:46Z",
   "automatic": true,
   "articles": [
     {
-      "title": "A Roma arriva un viaggio tra arte e tecnologia: installazioni immersive, intelligenza artificiale e mondi da esplorare",
-      "url": "https://www.romatoday.it/eventi/amazing-wonders-roma-mostra-immersiva-forte-trionfale.html",
+      "title": "La crisi del commercio al dettaglio a Roma: scomparse quasi 5mila attività in 13 anni",
+      "url": "https://www.romatoday.it/politica/negozi-chiusi-dati-roma-confcommercio.html",
       "source": "RomaToday",
-      "published": "2026-11-16T09:00:00Z",
+      "published": "2026-11-17T07:02:52Z",
       "category": "general"
     },
     {
-      "title": "Quando il cibo smette di essere soltanto cibo: cinque secoli di arte raccontano ciò che mettiamo a tavola",
-      "url": "https://www.romatoday.it/eventi/arte-chiostro-bramante-roma-mostra-2026.html",
+      "title": "La Tempesta silenziosa a Roma, sold-out in pochi minuti per il nuovo appuntamento. Ampliate le location",
+      "url": "https://www.romatoday.it/politica/tempesta-silenziosa-roma-baricco-22-novembre-come-vederla.html",
       "source": "RomaToday",
-      "published": "2026-11-16T09:00:00Z",
+      "published": "2026-11-17T05:39:08Z",
       "category": "general"
     },
     {
-      "title": "Christmas Parade, parata di Natale al centro di Roma",
-      "url": "https://www.romatoday.it/eventi/christmas-parade-parata-natale-roma-22-novembre-2026.html",
+      "title": "Sciopero della scuola a Roma, in arrivo un altro venerdì nero: studenti in piazza e lezioni a rischio",
+      "url": "https://www.romatoday.it/politica/sciopero-scuole-nidi-roma-20-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-16T08:31:08Z",
+      "published": "2026-11-17T05:28:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Monopattini elettrici a Roma, una commissione di esperti valuterà rischi e sicurezza dello sharing",
+      "url": "https://www.romatoday.it/politica/monopattini-roma-commissione-incidenti-roberto-cervellati.html",
+      "source": "RomaToday",
+      "published": "2026-11-17T05:13:25Z",
+      "category": "alerts"
+    },
+    {
+      "title": "Meteo a Roma e nel Lazio, oggi allerta gialla per vento forte",
+      "url": "https://www.romatoday.it/meteo/meteo-roma-17-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-17T04:39:26Z",
+      "category": "alerts"
+    },
+    {
+      "title": "Le famiglie più ricche dei Castelli romani: quanto valgono e a chi appartengono le grandi aziende della provincia",
+      "url": "https://www.romatoday.it/dossier/economia/famiglie-ricche-castelli-romani.html",
+      "source": "RomaToday",
+      "published": "2026-11-17T04:31:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Le mani sui vip, le tariffe record, i milioni di visualizzazioni. Chi sono gli osteopati influencer di Roma",
+      "url": "https://www.romatoday.it/dossier/sanita/osteopati-influencer-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-17T01:55:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Torrino Mezzocammino, il Polar Park torna a far discutere: “Disturba e rovina il parco”. Ma la proprietà smentisce",
+      "url": "https://www.romatoday.it/zone/eur/vitinia-mezzocammino/polemiche-polar-park-2026-mezzocammino.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T21:38:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Torre Maura, il quartiere alle prese col piromane dei cassonetti: cittadini esasperati",
+      "url": "https://www.romatoday.it/zone/torri/torre-maura/piromane-brucia-cassonetti-quali-vie.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T20:56:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Droghe dello stupro nei cocktail, kit gratuiti per scovarle in 60 farmacie di Roma: date e indirizzi",
+      "url": "https://www.romatoday.it/politica/test-anti-droghe-stupro-drink-dove-trovarli-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T20:55:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ztl a Roma, il Comune vuole ridurre ancora gli accessi: si studia la stretta sul permesso di transito scolastico",
+      "url": "https://www.romatoday.it/politica/ztl-transito-scolastico-roma-nuove-regole.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T20:52:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Piazza Ottavilla, i lavori cominceranno all'inizio del 2027",
+      "url": "https://www.romatoday.it/zone/monteverde/monteverde/lavori-piazza-ottavilla.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T20:23:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Autorecupero, la vera rigenerazione urbana arriva a una svolta: \"Roma Capitale coprirà il 60 per cento a fondo perduto\"",
+      "url": "https://www.romatoday.it/politica/regolamento-autorecupero-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T19:47:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Palazzo San Lorenzo: Rome’s new cultural hangout",
+      "url": "https://www.romeing.it/palazzo-san-lorenzo-rome-new-cultural-hangout/",
+      "source": "Romeing",
+      "published": "2026-11-16T19:17:49Z",
       "category": "events"
     },
     {
-      "title": "WIN&, mostra della cultura del vino italiano",
-      "url": "https://www.romatoday.it/eventi/win-mostra-cultura-vino-italiano-17-18-novembre-2026.html",
+      "title": "Fiumicino, oltre 530mila euro per ristrutturare l'asilo nido \"Il Pagliaccetto\" di Torrimpietra",
+      "url": "https://www.romatoday.it/zone/fiumicino/fiumicino/fiumicino-asilo-nido-pagliaccetto-torrimpietra-ristrutturazione.html",
       "source": "RomaToday",
-      "published": "2026-11-16T08:19:11Z",
+      "published": "2026-11-16T17:42:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Geco, il writer romano è precipitato a Torino mentre realizzava un graffito",
+      "url": "https://www.romatoday.it/cronaca/geco-precipitato-torino.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T17:37:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Il riciclaggio cinese svela tre gruppi criminali a Roma. I nomi, i depositi e le piazze di spaccio di \"Mela\", \"Zio Leonardo\" e \"Yellow\"",
+      "url": "https://www.romatoday.it/dossier/criminalita/nomi-arresti-a-roma-16-novembre-2026-chi-sono.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T17:26:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ubriaco in mezzo alla strada con un pitbull si ferisce e minaccia gli agenti",
+      "url": "https://www.romatoday.it/cronaca/lungotevere-si-ferisce-aggressione-vigili.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T17:12:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Scoprir. XIV Mostra di Cinema Iberoamericano di Roma",
+      "url": "https://www.romatoday.it/eventi/scoprir-xiv-mostra-cinema-iberoamericano-26-28-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T17:10:38Z",
       "category": "events"
     },
     {
-      "title": "Maxi blitz a Roma, 27 arresti. Tonnellate di droga e il denaro ripulito con i cinesi dell'Esquilino",
-      "url": "https://www.romatoday.it/cronaca/roma-27-arresti-oggi-16-novembre-2026.html",
+      "title": "Art Is Light al Gazometro: oltre 20 artisti internazionali e il ritorno del Luxometro",
+      "url": "https://www.romatoday.it/eventi/art-is-light-gazometro-4-dicembre-2026-9-gennaio-2027.html",
       "source": "RomaToday",
-      "published": "2026-11-16T08:08:24Z",
-      "category": "general"
-    },
-    {
-      "title": "Caos sulla Metro C, un treno si guasta e il servizio va in tilt",
-      "url": "https://www.romatoday.it/attualita/metro-c-rallentata-cosa-succede-oggi-16-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-16T07:26:29Z",
+      "published": "2026-11-16T17:03:23Z",
       "category": "transport"
     },
     {
-      "title": "Dallo spazio alle nuove opportunità: a Roma torna New Space Economy Expoforum",
-      "url": "https://www.romatoday.it/eventi/new-space-economy-expoforum-26.html",
+      "title": "Fotonica 2026, festival dedicato alle Audio Visual Live Perfomance",
+      "url": "https://www.romatoday.it/eventi/fotonica-mam-20-28-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-16T07:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Albero di Natale, come scegliere quello giusto per la propria casa",
-      "url": "https://www.romatoday.it/speciale/scegliere-albero-natale.html",
-      "source": "RomaToday",
-      "published": "2026-11-16T07:00:00Z",
+      "published": "2026-11-16T16:56:17Z",
       "category": "events"
     },
     {
-      "title": "Esplosione a San Basilio, nuova bomba carta nel quartiere. Danni al portone di un palazzo",
-      "url": "https://www.romatoday.it/cronaca/bomba-san-basilio-16-novembre-2026.html",
+      "title": "Tutti i residenti sui balconi con il \"distress call\". Contro l'assalto degli storni a viale Jonio scatta il piano d'emergenza",
+      "url": "https://www.romatoday.it/zone/montesacro/conca-d-oro/storni-prati-fiscali-assemblea-emergenza.html",
       "source": "RomaToday",
-      "published": "2026-11-16T06:57:00Z",
+      "published": "2026-11-16T16:46:00Z",
+      "category": "alerts"
+    },
+    {
+      "title": "Palestra di Passoscuro riaperta dopo la riqualificazione",
+      "url": "https://www.romatoday.it/zone/fiumicino/fiumicino/palestra-passoscuro-riqualificazione-completata.html",
+      "source": "RomaToday",
+      "published": "2026-11-16T16:40:00Z",
       "category": "general"
     },
     {
-      "title": "Roma, pistola stampata in 3D e due chili di hashish in auto: arrestati tre ventenni",
-      "url": "https://www.romatoday.it/cronaca/roma-pistola-stampata-3d-3-arresti.html",
+      "title": "I musulmani di Roma si rivolgono al Tar contro Gualtieri: “In tempi di remigrazione va applicato lo Statuto sui consiglieri aggiunti”",
+      "url": "https://www.romatoday.it/politica/musulmani-roma-ricorso-tar-consiglieri-aggiunti.html",
       "source": "RomaToday",
-      "published": "2026-11-16T06:18:00Z",
+      "published": "2026-11-16T15:56:00Z",
       "category": "general"
     },
     {
-      "title": "Roma si rifà il look. Parte il nuovo piano strade in 15 municipi, ecco i dettagli",
-      "url": "https://www.romatoday.it/politica/nuovo-piano-strade-quali-interventi-risorse-per-roma.html",
+      "title": "Crisi Crik Crok, pochi investimenti e stipendi in ritardo. I sindacati chiedono aiuto alla Regione",
+      "url": "https://www.romatoday.it/economia/crik-crok-pomezia-incontro-regione.html",
       "source": "RomaToday",
-      "published": "2026-11-16T06:00:00Z",
+      "published": "2026-11-16T15:47:00Z",
       "category": "general"
     },
     {
-      "title": "La nuova frontiera dell’edilizia, tra tecnologia, sostenibilità e innovazione",
-      "url": "https://www.romatoday.it/speciale/la_nuova_edilizia_macos_srl.html",
+      "title": "Femminicidio Federica Torzullo, la rabbia dei genitori contro l'imputato: \"Hai rovinato un bambino\"",
+      "url": "https://www.romatoday.it/cronaca/femminicidio-federica-torzullo-processo.html",
       "source": "RomaToday",
-      "published": "2026-11-16T06:00:00Z",
+      "published": "2026-11-16T15:44:43Z",
       "category": "general"
-    },
-    {
-      "title": "Fiumicino, il corteo contro il porto crocieristico. La protesta dopo lo sgombero dei Bilancioni",
-      "url": "https://www.romatoday.it/zone/fiumicino/fiumicino-porto-corte-bilancioni-15-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-16T05:07:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Paura a Torpignattara, armato di machete aggredisce e ferisce due persone",
-      "url": "https://www.romatoday.it/cronaca/accoltellati-machete-torpignattara-via-serbelloni.html",
-      "source": "RomaToday",
-      "published": "2026-11-16T05:03:00Z",
-      "category": "general"
-    },
-    {
-      "title": "'Maverick' e 'Neymar', il cattivissimo duo che \"imbocca\" a casa e nei bar per riscuotere i debiti di droga",
-      "url": "https://www.romatoday.it/dossier/criminalita/manuel-grilla-neymar-giuliano-cappoli-maverick-chi-sono.html",
-      "source": "RomaToday",
-      "published": "2026-11-16T04:34:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Barche fantasma lungo le coste: valevano 2,6 milioni ma erano invisibili al Fisco",
-      "url": "https://www.romatoday.it/cronaca/barche-fantasma-evasione-fiscale.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T18:58:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Incidenti stradali a Roma, è allarme: flash mob in piazza Capranica contro la riforma",
-      "url": "https://www.romatoday.it/politica/incidenti-stradali-roma-flash-mob-contro-codice-stradale.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T17:49:01Z",
-      "category": "general"
-    },
-    {
-      "title": "Centro storico, scatoloni e bancali nella Biblioteca Centrale per Ragazzi: cresce il timore di un trasferimento",
-      "url": "https://www.romatoday.it/politica/biblioteca-centrale-ragazzi-timore-trasferimento.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T17:21:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Qualità della vita, Roma perde una posizione: ora é scesa al 30esimo posto",
-      "url": "https://www.romatoday.it/politica/qualita-della-vita-roma-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T14:28:55Z",
-      "category": "general"
-    },
-    {
-      "title": "Alessandrino: lancia lo zaino con tre chili di hashish dal balcone, ma sotto c'è la polizia",
-      "url": "https://www.romatoday.it/cronaca/lancia-zaino-hashish-balcone-alessandrino.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T14:16:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Sciopero: venerdì 20 novembre a Roma a rischio per 24 ore bus, metro e treni. Tutte le informazioni",
-      "url": "https://www.romatoday.it/cronaca/sciopero-trasporti-roma-20-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T13:26:00Z",
-      "category": "transport"
-    },
-    {
-      "title": "Stretta sul gioco delle tre campanelle: denunciati venti truffatori in una settimana. Sequestrati 3mila euro",
-      "url": "https://www.romatoday.it/cronaca/gioco-tre-campanelle-gruppi-truffatori-fontana-trevi.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T12:51:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Corri Libera, 10mila persone alla gara contro la violenza sulle donne",
-      "url": "https://www.romatoday.it/attualita/corri-libera-2026-contro-violenza-donne.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T12:18:03Z",
-      "category": "general"
-    },
-    {
-      "title": "Rebibbia, rimosso un nido di vespe orientalis nascosto a 20 metri d'altezza",
-      "url": "https://www.romatoday.it/attualita/rimosso-nido-vespe-orientalis-tetto-lunerti.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T11:14:33Z",
-      "category": "general"
-    },
-    {
-      "title": "Il camper della droga usato come deposito per le piazze di spaccio di Ostia e Fiumicino",
-      "url": "https://www.romatoday.it/cronaca/camper-droga-pistola-isola-sacra.html",
-      "source": "RomaToday",
-      "published": "2026-11-15T11:03:15Z",
-      "category": "transport"
     },
     {
       "title": "The 2027 Michelin-starred restaurants in Rome",
@@ -218,19 +225,12 @@
       "source": "Romeing",
       "published": "2026-11-10T12:51:13Z",
       "category": "events"
-    },
-    {
-      "title": "Anavà: Sophisticated cuisine one step away from the Trevi Fountain",
-      "url": "https://www.romeing.it/anava-restaurant/",
-      "source": "Romeing",
-      "published": "2026-11-10T09:32:40Z",
-      "category": "events"
     }
   ],
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 8,
+    "Romeing": 9,
     "ATAC": 1
   }
 }
