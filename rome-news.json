@@ -1,47 +1,180 @@
 {
-  "updated": "2026-11-18T07:35:33Z",
+  "updated": "2026-11-19T07:39:07Z",
   "automatic": true,
   "articles": [
     {
-      "title": "Banda della microcar a Roma, trasferiti in comunità i due giovani che avevano ferito Davide Iacopini",
-      "url": "https://www.romatoday.it/cronaca/banda-microcar-roma-indagati-trasferiti-comunita.html",
+      "title": "A Roma si accendono le feste: tra albero gigante, luci e foto di Natale",
+      "url": "https://www.romatoday.it/speciale/natale-the-village-parco-medici.html",
       "source": "RomaToday",
-      "published": "2026-11-18T05:39:36Z",
+      "published": "2026-11-19T09:00:00Z",
+      "category": "events"
+    },
+    {
+      "title": "Criminalità nel Lazio: calano gli omicidi ma aumentano rapine in casa, violenze e reati legati ai social e ai minori",
+      "url": "https://www.romatoday.it/cronaca/rapporto-criminalita-lazio-2024-2025.html",
+      "source": "RomaToday",
+      "published": "2026-11-19T06:28:21Z",
       "category": "general"
     },
     {
-      "title": "Bastogi, via alla bonifica dell'amianto. Svuotati anche gli spazi comuni pieni di rifiuti abbandonati",
-      "url": "https://www.romatoday.it/zone/aurelio/monte-spaccato/bonifica-amianto-bastogi.html",
+      "title": "Ronda contro i migranti a Rebibbia: i filmati al vaglio della polizia, e il caso arriva in Parlamento",
+      "url": "https://www.romatoday.it/cronaca/ronde-razziste-migranti-rebibbia-interrogazione.html",
       "source": "RomaToday",
-      "published": "2026-11-18T04:52:00Z",
+      "published": "2026-11-19T05:21:26Z",
       "category": "general"
     },
     {
-      "title": "\"Lo que pasa en el Kokus, queda en el Kokus\". Come fa un bar chiuso 12 volte a beffare di continuo il questore di Roma",
-      "url": "https://www.romatoday.it/dossier/economia/kokus-bar-marilyn-via-casilina-perche-apre.html",
+      "title": "La classifica dei migliori (e i peggiori) ospedali di Roma. I dati patologia per patologia",
+      "url": "https://www.romatoday.it/dossier/sanita/migliori-ospedali-roma-classifica-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-18T04:23:00Z",
+      "published": "2026-11-19T05:04:00Z",
       "category": "general"
     },
     {
-      "title": "Truffa del finto carabiniere da 30mila euro a una 90enne, due persone bloccate sui binari a Termini",
-      "url": "https://www.romatoday.it/cronaca/truffa-anziana-spezia-arresti-roma.html",
+      "title": "Assicurazioni, gite e pacchetti di voti. Chi vuole prendersi i 153 centri anziani di Roma (e perché ora pesano sul 2027)",
+      "url": "https://www.romatoday.it/dossier/potere/case-anziani-quartiere-affiliazioni-associazioni.html",
       "source": "RomaToday",
-      "published": "2026-11-17T22:33:00Z",
+      "published": "2026-11-19T03:58:00Z",
       "category": "general"
     },
     {
-      "title": "Quando torneranno i tram al capolinea di Centocelle? Gli utenti lanciano la raccolta firme",
-      "url": "https://www.romatoday.it/politica/raccolta-firme-tram-centocelle-piazza-dei-gerani.html",
+      "title": "Il popolo di Cateno, chi sono e cosa chiedono i sostenitori romani (e non) di De Luca",
+      "url": "https://www.romatoday.it/attualita/cateno-de-luca-politica-sindaco-roma-sostenitori-video.html",
       "source": "RomaToday",
-      "published": "2026-11-17T21:51:00Z",
-      "category": "transport"
+      "published": "2026-11-18T22:01:00Z",
+      "category": "general"
     },
     {
-      "title": "Tor Vergata, ecco la Città della Conoscenza: mega serra da 2 chilometri e 14.000 posti di lavoro",
-      "url": "https://www.romatoday.it/politica/progetto-citta-della-conoscenza-tor-vergata.html",
+      "title": "Job day al Quarticciolo: 47 aziende e 500 posti di lavoro il 19 novembre",
+      "url": "https://www.romatoday.it/economia/job-day-quarticciolo-roma-capitale-novembre.html",
       "source": "RomaToday",
-      "published": "2026-11-17T21:46:00Z",
+      "published": "2026-11-18T21:56:56Z",
+      "category": "general"
+    },
+    {
+      "title": "Mercato San Giovanni di Dio, scontro su parcheggi e dimensioni. Forza Italia accusa, ma il municipio tira dritto",
+      "url": "https://www.romatoday.it/zone/monteverde/mercato-san-giovanni-parcheggi.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T21:33:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Cdp inaugura la nuova sede a piazza Verdi con il presidente Sergio Mattarella",
+      "url": "https://www.romatoday.it/zone/parioli/inaugurazione-sede-cdp-piazza-verdi.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T18:04:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Bonessio non guiderà RomaSport. Gualtieri indica alla presidenza Mario Cotogno",
+      "url": "https://www.romatoday.it/politica/mario-cotogno-guida-roma-sport.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T17:25:14Z",
+      "category": "general"
+    },
+    {
+      "title": "No all'accorpamento delle caserme: dal municipio VII la richiesta per contrastare l'escalation violenta",
+      "url": "https://www.romatoday.it/zone/tuscolano/don-bosco/no-accorpamento-commissariati-laddaga-commissione-parlamentare.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T17:01:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Lo stallo infinito della Centrale del Latte di Roma: tra perdite milionarie e il nodo Parmalat",
+      "url": "https://www.romatoday.it/politica/centrale-del-latte-roma-parmalat-che-succede.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:57:00Z",
+      "category": "general"
+    },
+    {
+      "title": "In servizio sulla Tiburtina finì travolto da un'auto. L'agente Daniele Virgili torna in servizio al IV gruppo Tiburtino",
+      "url": "https://www.romatoday.it/cronaca/agente-virgili-ritorno-servizio-tiburtino.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:44:04Z",
+      "category": "general"
+    },
+    {
+      "title": "Dalla Basilicata al Vaticano, ecco il volo dell'albero di Natale che sarà allestito a San Pietro",
+      "url": "https://www.romatoday.it/attualita/albero-di-natale-piazza-san-pietro-arriva-basilicata.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:33:00Z",
+      "category": "events"
+    },
+    {
+      "title": "Avere il posto fisso a Roma non basta più. Cgil: \"Quasi un romano su due taglia su cibo e cure per affitto e bollette\"",
+      "url": "https://www.romatoday.it/politica/crisi-abitativa-sondaggio-sfratti.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:23:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ragazzi a lezione con il secchio per le infiltrazioni: la denuncia dei genitori",
+      "url": "https://www.romatoday.it/zone/montemario/primavalle/piove-classe-denuncia-gentiori-scuola-andersen-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:22:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Vicolo Fontanile Arenato è una strada pubblica. Svelato il mistero dell'abbandono, ora parte la pulizia",
+      "url": "https://www.romatoday.it/zone/monteverde/la-pisana/vicolo-fontanile-arenato-pubblica.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:20:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Torrino, studente ha un malore e si accosta. In due lo affiancano, lo picchiano e lo rapinano",
+      "url": "https://www.romatoday.it/cronaca/studente-aggredito-rapinato-torrino.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T16:13:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Appio Latino, raddoppia lo spazio verde: partito il cantiere per riqualificare il parchetto Lidia Menapace",
+      "url": "https://www.romatoday.it/zone/sangiovanni/appio-latino/giardino-lidia-menapace-partiti-lavori-riqualificazione.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T15:59:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Ostia, c’era una volta la “piazza della gentilezza”: dopo anni di abbandono, ora va riqualificata",
+      "url": "https://www.romatoday.it/zone/ostia/ostia/riqualificazione-piazza-della-gentilezza-municipio-X.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T15:42:15Z",
+      "category": "general"
+    },
+    {
+      "title": "Valle Muricana, un'auto prende fuoco e il quartiere rimane isolato. Badaracco: \"Serve un nuovo collegamento viario\"",
+      "url": "https://www.romatoday.it/cronaca/incendio-auto-via-concesio-18-novembre.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T15:25:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Jacopo Cirillo investito e ucciso a Roma, l'automobilista patteggia un anno. I genitori del 20enne: \"Ingiustizia è stata fatta\"",
+      "url": "https://www.romatoday.it/cronaca/incidente-stradale/jacopo-cirillo-morto-genitori-processo-automobilista.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T15:18:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Cocaina, appunti della contabilità e un pugnale di 30 centimetri: due arresti a San Vittorino",
+      "url": "https://www.romatoday.it/cronaca/arresti-pusher-gallicano-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T14:54:09Z",
+      "category": "general"
+    },
+    {
+      "title": "L'uragano Cateno smuove il centrodestra romano. Forza Italia: \"Non possiamo permetterci di perdere tempo\"",
+      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/forza-italia-roma-risponde-cateno-de-luca.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T14:48:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Taglio Irpef e caro energia, la Regione Lazio pensa ai redditi più bassi. Sul tavolo 20 milioni di euro",
+      "url": "https://www.romatoday.it/politica/fondo-bollette-regione-lazio-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-18T14:44:00Z",
       "category": "general"
     },
     {
@@ -50,139 +183,6 @@
       "source": "Romeing",
       "published": "2026-11-17T21:20:13Z",
       "category": "events"
-    },
-    {
-      "title": "La zona rossa e una Ztl anti spaccio per fermare i clienti dei pusher di Tor Bella Monaca",
-      "url": "https://www.romatoday.it/politica/ztl-anti-spaccio-via-archeologia.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T20:53:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Via Cilicia ostaggio delle baracche: la Sovrintendenza chiamata a blindare l'area",
-      "url": "https://www.romatoday.it/zone/sangiovanni/favela-via-cilicia-municipio-chiede-intervento-risolutivo.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T20:52:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Versi di predatori, finti spari e luci per cacciare gli storni da viale Jonio: \"Continueremo tutta la settimana\"",
-      "url": "https://www.romatoday.it/zone/montesacro/conca-d-oro/viale-jonio-storni-distress-collettiva-balconi-marchionne-video.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T20:49:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Spaccate nei negozi di Roma, i commercianti hanno speso più di 2.200 euro in interventi per la sicurezza",
-      "url": "https://www.romatoday.it/politica/furti-spaccate-roma-indagine-confcommercio.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T20:45:00Z",
-      "category": "alerts"
-    },
-    {
-      "title": "Al Policlinico Casilino donati 30 polpetti di cotone per i neonati prematuri",
-      "url": "https://www.romatoday.it/benessere/salute/policlinico-casilino-30-polpetti-cotone-neonati-prematuri.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T15:11:40Z",
-      "category": "general"
-    },
-    {
-      "title": "Stazione Trastevere, Gualtieri inaugura il secondo ingresso: \"Opera di ricucitura urbana\"",
-      "url": "https://www.romatoday.it/zone/arvalia/marconi/stazione-trastevere-nuovo-accesso-ferroviario.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T15:06:00Z",
-      "category": "general"
-    },
-    {
-      "title": "In provincia di Roma riqualificati completamente 150 alloggi popolari grazie a 17 milioni di euro Pnrr",
-      "url": "https://www.romatoday.it/zone/civitavecchia/riqualificazione-case-popolari-civitavecchia.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:58:54Z",
-      "category": "general"
-    },
-    {
-      "title": "Al Policlinico Campus Bio-Medico 250 infermieri formati con il digitale",
-      "url": "https://www.romatoday.it/benessere/salute/policlinico-campus-bio-medico-digital-nursing-infermieri.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:48:09Z",
-      "category": "general"
-    },
-    {
-      "title": "Vigile si finge lavavetri e incastra la 'banda del semaforo'. E in un'ora racimola 8,30 euro",
-      "url": "https://www.romatoday.it/cronaca/vigile-lavavetri-piazzale-labicano.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:44:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Calafiori da Gualtieri fa sognare la Roma: \"Mi piacerebbe tornare\"",
-      "url": "https://www.romatoday.it/sport/calciomercato/riccardo-calafiori-ritorno-roma-.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:40:37Z",
-      "category": "general"
-    },
-    {
-      "title": "Meteo Roma e Lazio, mercoledì 18 novembre torna il sole ma dura poco: giovedì nuove piogge",
-      "url": "https://www.romatoday.it/cronaca/meteo-roma-18-19-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:36:49Z",
-      "category": "alerts"
-    },
-    {
-      "title": "Omicidio di Primavalle, l'ex boss della Magliana Salvatore Nicitra condannato a 22 anni",
-      "url": "https://www.romatoday.it/cronaca/omicidio-primavalle-salvatore-nicitra-condannato.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:20:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Traslochi a Roma, svolta in arrivo per i permessi: addio ai camion in doppia fila",
-      "url": "https://www.romatoday.it/politica/caos-traslochi-novita-gestione-permessi-camion.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T14:15:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Lavori stradali nel Municipio X: partono i cantieri tra Ostia, Casal Palocco e Casal Bernocchi",
-      "url": "https://www.romatoday.it/politica/strade-municipio-x-cantieri-chiusi-entro-natale.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:50:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Giallo alla Garbatella: trovato morto in casa, la madre portata in ospedale",
-      "url": "https://www.romatoday.it/cronaca/morto-garbatella-via-badoero.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:49:30Z",
-      "category": "general"
-    },
-    {
-      "title": "Polizia di Stato, quattro concorsi per 1.000 laureati: informatica, lingue, economia e comunicazione",
-      "url": "https://www.romatoday.it/economia/offerte-di-lavoro/polizia-stato-concorso-1000-laureati.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:45:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Piano buche, strade rifatte (nonostante le auto parcheggiate) tra Salario e Africano. Ecco i prossimi interventi",
-      "url": "https://www.romatoday.it/zone/parioli/africano/piano-buche-strade-rifatte-nonostante.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:42:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Svastiche, croci celtiche e aule devastate al Pacinotti-Archimede dopo l'occupazione: la denuncia degli studenti",
-      "url": "https://www.romatoday.it/politica/pacinotti-archimede-occupato-danni.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:38:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Mercato San Giovanni di Dio, iniziano i lavori per il mercato temporaneo e cambia la viabilità. Tutte le strade coinvolte",
-      "url": "https://www.romatoday.it/zone/monteverde/cambio-viabilita-mercato-san-giovanni-dio.html",
-      "source": "RomaToday",
-      "published": "2026-11-17T13:37:00Z",
-      "category": "transport"
     },
     {
       "title": "Domenica 22 novembre, 32^ Edizione “Corri alla Garbatella” - tutte le informazioni sul trasporto pubblico",
@@ -230,7 +230,7 @@
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 9,
+    "Romeing": 6,
     "ATAC": 2
   }
 }
