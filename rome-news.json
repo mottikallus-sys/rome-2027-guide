@@ -1,181 +1,202 @@
 {
-  "updated": "2026-11-19T07:39:07Z",
+  "updated": "2026-11-20T15:32:23Z",
   "automatic": true,
   "articles": [
     {
-      "title": "A Roma si accendono le feste: tra albero gigante, luci e foto di Natale",
-      "url": "https://www.romatoday.it/speciale/natale-the-village-parco-medici.html",
+      "title": "Trasforma la casa in un laboratorio per la marijuana, in casa un essiccatoio e materiale per la coltivazione",
+      "url": "https://www.romatoday.it/cronaca/marijuana-essicatorio-spacciatrice-santa-maria-delle-mole.html",
       "source": "RomaToday",
-      "published": "2026-11-19T09:00:00Z",
+      "published": "2026-11-20T17:43:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Mercato di San Giovanni di Dio, al via il trasloco temporaneo. Cosa succede a banchi e parcheggi",
+      "url": "https://www.romatoday.it/zone/monteverde/mercato-temporaneo-san-giovanni-dio-2-dicembre.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T15:01:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Tim pianta 500 alberi autoctoni al parco di Aguzzano con dipendenti e famiglie",
+      "url": "https://www.romatoday.it/zone/tiburtino/ponte-mammolo/tim-500-alberi-parco-aguzzano-forestazione.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:54:53Z",
+      "category": "general"
+    },
+    {
+      "title": "Chiamata, WhatsApp e Qr code in tabaccheria: così hanno truffato un 57enne per l'Rc auto",
+      "url": "https://www.romatoday.it/cronaca/truffa-assicurazione-auto-qr-code-come-funziona.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:53:00Z",
+      "category": "general"
+    },
+    {
+      "title": "OrientaDay 2026 al Centro commerciale RomaEst: tre giorni per orientarsi tra le scuole",
+      "url": "https://www.romatoday.it/formazione/scuola/orientaday-2026-romaest-orientamento-scuole.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:49:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Maristella Urru, la candidata anti-Pd: “Costruiamo un’alleanza sociale per chi non si sente rappresentato”",
+      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/maristella-urru-motivi-candidatura-contro-pd.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:42:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Cocaina nascosta nel pannolino del figlio di 7 mesi. Due genitori in manette",
+      "url": "https://www.romatoday.it/cronaca/cocaina-pannolino-figlio-bravetta.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:40:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Al Chiostro del Bramante ogni domenica laboratori per bambini ispirati alla mostra \"Food\"",
+      "url": "https://www.romatoday.it/eventi/cultura/chiostro-bramante-domeniche-famiglia-laboratori-bambini.html",
+      "source": "RomaToday",
+      "published": "2026-11-20T14:34:42Z",
       "category": "events"
     },
     {
-      "title": "Criminalità nel Lazio: calano gli omicidi ma aumentano rapine in casa, violenze e reati legati ai social e ai minori",
-      "url": "https://www.romatoday.it/cronaca/rapporto-criminalita-lazio-2024-2025.html",
+      "title": "Irruzione nella notte e spintoni per occupare la scuola: aggredita preside a Ostia",
+      "url": "https://www.romatoday.it/cronaca/preside-aggredita-occupazione-faraday-ostia.html",
       "source": "RomaToday",
-      "published": "2026-11-19T06:28:21Z",
+      "published": "2026-11-20T14:31:45Z",
       "category": "general"
     },
     {
-      "title": "Ronda contro i migranti a Rebibbia: i filmati al vaglio della polizia, e il caso arriva in Parlamento",
-      "url": "https://www.romatoday.it/cronaca/ronde-razziste-migranti-rebibbia-interrogazione.html",
+      "title": "Al San Camillo riapre la terapia intensiva cardiologica: restyling da oltre 2 milioni di euro",
+      "url": "https://www.romatoday.it/attualita/san-camillo-nuova-unita-emergenze-cardiache.html",
       "source": "RomaToday",
-      "published": "2026-11-19T05:21:26Z",
+      "published": "2026-11-20T14:30:00Z",
       "category": "general"
     },
     {
-      "title": "La classifica dei migliori (e i peggiori) ospedali di Roma. I dati patologia per patologia",
-      "url": "https://www.romatoday.it/dossier/sanita/migliori-ospedali-roma-classifica-2026.html",
+      "title": "La Santa Cecilia Jazz Orchestra omaggia Bud Powell al Conservatorio di Roma",
+      "url": "https://www.romatoday.it/eventi/santa-cecilia-jazz-orchestra-bud-powell-conservatorio.html",
       "source": "RomaToday",
-      "published": "2026-11-19T05:04:00Z",
+      "published": "2026-11-20T14:26:43Z",
       "category": "general"
     },
     {
-      "title": "Assicurazioni, gite e pacchetti di voti. Chi vuole prendersi i 153 centri anziani di Roma (e perché ora pesano sul 2027)",
-      "url": "https://www.romatoday.it/dossier/potere/case-anziani-quartiere-affiliazioni-associazioni.html",
+      "title": "Lezioni di creatività contemporanea: Lucia Silvestri racconta il mondo Bvlgari all'Auditorium Parco della Musica",
+      "url": "https://www.romatoday.it/eventi/lezioni-creativita-contemporanea-lucia-silvestri-bvlgari-auditorium.html",
       "source": "RomaToday",
-      "published": "2026-11-19T03:58:00Z",
+      "published": "2026-11-20T14:22:08Z",
       "category": "general"
     },
     {
-      "title": "Il popolo di Cateno, chi sono e cosa chiedono i sostenitori romani (e non) di De Luca",
-      "url": "https://www.romatoday.it/attualita/cateno-de-luca-politica-sindaco-roma-sostenitori-video.html",
+      "title": "Solo, quello che resta di noi. La pittura di Elena Pizzichelli",
+      "url": "https://www.romatoday.it/eventi/solo-quello-che-resta-di-noi-pelena-pizzichelli.html",
       "source": "RomaToday",
-      "published": "2026-11-18T22:01:00Z",
+      "published": "2026-11-20T14:19:35Z",
       "category": "general"
     },
     {
-      "title": "Job day al Quarticciolo: 47 aziende e 500 posti di lavoro il 19 novembre",
-      "url": "https://www.romatoday.it/economia/job-day-quarticciolo-roma-capitale-novembre.html",
+      "title": "Tentato furto al supermercato nella notte: sfondano l'ingresso con un furgone rubato",
+      "url": "https://www.romatoday.it/cronaca/spaccata-supermercato-largo-ruspoli.html",
       "source": "RomaToday",
-      "published": "2026-11-18T21:56:56Z",
+      "published": "2026-11-20T14:15:00Z",
       "category": "general"
     },
     {
-      "title": "Mercato San Giovanni di Dio, scontro su parcheggi e dimensioni. Forza Italia accusa, ma il municipio tira dritto",
-      "url": "https://www.romatoday.it/zone/monteverde/mercato-san-giovanni-parcheggi.html",
+      "title": "Emergenza abitativa, il Campidoglio compra 33 alloggi nuovi di zecca a La Rustica",
+      "url": "https://www.romatoday.it/politica/roma-compra-case-via-tirsi.html",
       "source": "RomaToday",
-      "published": "2026-11-18T21:33:00Z",
-      "category": "general"
+      "published": "2026-11-20T14:03:00Z",
+      "category": "alerts"
     },
     {
-      "title": "Cdp inaugura la nuova sede a piazza Verdi con il presidente Sergio Mattarella",
-      "url": "https://www.romatoday.it/zone/parioli/inaugurazione-sede-cdp-piazza-verdi.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T18:04:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Bonessio non guiderà RomaSport. Gualtieri indica alla presidenza Mario Cotogno",
-      "url": "https://www.romatoday.it/politica/mario-cotogno-guida-roma-sport.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T17:25:14Z",
-      "category": "general"
-    },
-    {
-      "title": "No all'accorpamento delle caserme: dal municipio VII la richiesta per contrastare l'escalation violenta",
-      "url": "https://www.romatoday.it/zone/tuscolano/don-bosco/no-accorpamento-commissariati-laddaga-commissione-parlamentare.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T17:01:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Lo stallo infinito della Centrale del Latte di Roma: tra perdite milionarie e il nodo Parmalat",
-      "url": "https://www.romatoday.it/politica/centrale-del-latte-roma-parmalat-che-succede.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T16:57:00Z",
-      "category": "general"
-    },
-    {
-      "title": "In servizio sulla Tiburtina finì travolto da un'auto. L'agente Daniele Virgili torna in servizio al IV gruppo Tiburtino",
-      "url": "https://www.romatoday.it/cronaca/agente-virgili-ritorno-servizio-tiburtino.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T16:44:04Z",
-      "category": "general"
-    },
-    {
-      "title": "Dalla Basilicata al Vaticano, ecco il volo dell'albero di Natale che sarà allestito a San Pietro",
-      "url": "https://www.romatoday.it/attualita/albero-di-natale-piazza-san-pietro-arriva-basilicata.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T16:33:00Z",
+      "title": "Pasta in Corso: a gluten-free restaurant in Rome rooted in Roman tradition",
+      "url": "https://www.romeing.it/pasta-in-corso-a-gluten-free-restaurant-in-rome/",
+      "source": "Romeing",
+      "published": "2026-11-20T13:45:12Z",
       "category": "events"
     },
     {
-      "title": "Avere il posto fisso a Roma non basta più. Cgil: \"Quasi un romano su due taglia su cibo e cure per affitto e bollette\"",
-      "url": "https://www.romatoday.it/politica/crisi-abitativa-sondaggio-sfratti.html",
+      "title": "Giornata contro la violenza sulle donne: il programma di Roma Capitale dal 23 al 25 novembre",
+      "url": "https://www.romatoday.it/politica/roma-violenza-donne-25-novembre-campidoglio.html",
       "source": "RomaToday",
-      "published": "2026-11-18T16:23:00Z",
+      "published": "2026-11-20T13:44:11Z",
       "category": "general"
     },
     {
-      "title": "Ragazzi a lezione con il secchio per le infiltrazioni: la denuncia dei genitori",
-      "url": "https://www.romatoday.it/zone/montemario/primavalle/piove-classe-denuncia-gentiori-scuola-andersen-roma.html",
+      "title": "Riflessi, incontro con Nicola Piovani a Palazzo Cipolla",
+      "url": "https://www.romatoday.it/eventi/riflessi-nicola-piovani-palazzo-cipolla-24-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-18T16:22:00Z",
+      "published": "2026-11-20T13:28:47Z",
       "category": "general"
     },
     {
-      "title": "Vicolo Fontanile Arenato è una strada pubblica. Svelato il mistero dell'abbandono, ora parte la pulizia",
-      "url": "https://www.romatoday.it/zone/monteverde/la-pisana/vicolo-fontanile-arenato-pubblica.html",
+      "title": "Lancio di monopattini e petardi al ministero dell'Istruzione, due studenti (dalla parte della polizia) bloccano tutto",
+      "url": "https://www.romatoday.it/cronaca/studenti-bloccano-lanciano-petardi-ministero-polizia.html",
       "source": "RomaToday",
-      "published": "2026-11-18T16:20:00Z",
+      "published": "2026-11-20T13:08:05Z",
       "category": "general"
     },
     {
-      "title": "Torrino, studente ha un malore e si accosta. In due lo affiancano, lo picchiano e lo rapinano",
-      "url": "https://www.romatoday.it/cronaca/studente-aggredito-rapinato-torrino.html",
+      "title": "Roma Capitale dà l'ok all'ampliamento del Campus Bio-Medico: in arrivo una cittadella di 225mila metri quadrati",
+      "url": "https://www.romatoday.it/zone/eur/vitinia-mezzocammino/ampliamento-campus-biomedico-trigoria.html",
       "source": "RomaToday",
-      "published": "2026-11-18T16:13:00Z",
+      "published": "2026-11-20T12:45:00Z",
       "category": "general"
     },
     {
-      "title": "Appio Latino, raddoppia lo spazio verde: partito il cantiere per riqualificare il parchetto Lidia Menapace",
-      "url": "https://www.romatoday.it/zone/sangiovanni/appio-latino/giardino-lidia-menapace-partiti-lavori-riqualificazione.html",
+      "title": "Roma Capitale paga 3,2 milioni di euro ad Ater e blocca la vendita di via Pincherle",
+      "url": "https://www.romatoday.it/politica/accordo-roma-capitale-ater-via-pincherle.html",
       "source": "RomaToday",
-      "published": "2026-11-18T15:59:00Z",
+      "published": "2026-11-20T12:31:00Z",
       "category": "general"
     },
     {
-      "title": "Ostia, c’era una volta la “piazza della gentilezza”: dopo anni di abbandono, ora va riqualificata",
-      "url": "https://www.romatoday.it/zone/ostia/ostia/riqualificazione-piazza-della-gentilezza-municipio-X.html",
+      "title": "Rapina in Calabria poi la fuga a Roma, scovato nei giardini di Piazza Vittorio",
+      "url": "https://www.romatoday.it/cronaca/rapinatore-calabria-arresto-giardini-piazza-vittorio.html",
       "source": "RomaToday",
-      "published": "2026-11-18T15:42:15Z",
+      "published": "2026-11-20T12:27:00Z",
       "category": "general"
     },
     {
-      "title": "Valle Muricana, un'auto prende fuoco e il quartiere rimane isolato. Badaracco: \"Serve un nuovo collegamento viario\"",
-      "url": "https://www.romatoday.it/cronaca/incendio-auto-via-concesio-18-novembre.html",
+      "title": "Una Panda donata all’Auser di Corviale in memoria del sindacalista Cgil Nicola Maiolino",
+      "url": "https://www.romatoday.it/zone/arvalia/corviale/donazione-panda-corviale-nicola-maiolino.html",
       "source": "RomaToday",
-      "published": "2026-11-18T15:25:00Z",
+      "published": "2026-11-20T12:22:00Z",
       "category": "general"
     },
     {
-      "title": "Jacopo Cirillo investito e ucciso a Roma, l'automobilista patteggia un anno. I genitori del 20enne: \"Ingiustizia è stata fatta\"",
-      "url": "https://www.romatoday.it/cronaca/incidente-stradale/jacopo-cirillo-morto-genitori-processo-automobilista.html",
+      "title": "La truffa del finto maresciallo finisce in una violenta rapina, 67enne spinta e ferita sulle scale",
+      "url": "https://www.romatoday.it/cronaca/arresto-truffa-anziani-casalotti.html",
       "source": "RomaToday",
-      "published": "2026-11-18T15:18:00Z",
+      "published": "2026-11-20T12:21:33Z",
       "category": "general"
     },
     {
-      "title": "Cocaina, appunti della contabilità e un pugnale di 30 centimetri: due arresti a San Vittorino",
-      "url": "https://www.romatoday.it/cronaca/arresti-pusher-gallicano-roma.html",
+      "title": "Storni Prati Fiscali, primi risultati dopo il distress call comunitario, ma adesso gli uccelli sono in giro",
+      "url": "https://www.romatoday.it/zone/montesacro/conca-d-oro/storni-prati-fiscali-cacciati.html",
       "source": "RomaToday",
-      "published": "2026-11-18T14:54:09Z",
+      "published": "2026-11-20T12:19:44Z",
       "category": "general"
     },
     {
-      "title": "L'uragano Cateno smuove il centrodestra romano. Forza Italia: \"Non possiamo permetterci di perdere tempo\"",
-      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/forza-italia-roma-risponde-cateno-de-luca.html",
+      "title": "Libridine!, il festival diffuso delle librerie",
+      "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-18T14:48:00Z",
-      "category": "general"
+      "published": "2026-11-20T12:12:21Z",
+      "category": "events"
     },
     {
-      "title": "Taglio Irpef e caro energia, la Regione Lazio pensa ai redditi più bassi. Sul tavolo 20 milioni di euro",
-      "url": "https://www.romatoday.it/politica/fondo-bollette-regione-lazio-2027.html",
-      "source": "RomaToday",
-      "published": "2026-11-18T14:44:00Z",
-      "category": "general"
+      "title": "Oggi 20 novembre, in programma 5 manifestazioni. I dettagli",
+      "url": "https://www.atac.roma.it/tempo-reale/domani-20-novembre--in-programma-3-manifestazioni.-i-dettagli",
+      "source": "ATAC",
+      "published": "2026-11-19T15:19:11Z",
+      "category": "transport"
+    },
+    {
+      "title": "Museums in Music 2026",
+      "url": "https://www.romeing.it/museums-in-music/",
+      "source": "Romeing",
+      "published": "2026-11-19T10:17:37Z",
+      "category": "events"
     },
     {
       "title": "Marina Abramović in Rome: Historical Works and Transforming Energy at the Galleria Nazionale",
@@ -204,33 +225,12 @@
       "source": "Romeing",
       "published": "2026-11-16T19:17:49Z",
       "category": "events"
-    },
-    {
-      "title": "The 2027 Michelin-starred restaurants in Rome",
-      "url": "https://www.romeing.it/michelin-starred-restaurants-rome/",
-      "source": "Romeing",
-      "published": "2026-11-14T16:21:27Z",
-      "category": "events"
-    },
-    {
-      "title": "IL 20 NOVEMBRE SCIOPERO DI 24 ORE, I DETTAGLI",
-      "url": "https://www.atac.roma.it/tempo-reale/il-20-novembre-sciopero-di-24-ore--le-info",
-      "source": "ATAC",
-      "published": "2026-11-13T18:01:12Z",
-      "category": "transport"
-    },
-    {
-      "title": "Unconventional Market in Rome: Independent Brands, Creativity and Music at MAXXI",
-      "url": "https://www.romeing.it/unconventional-market-in-rome/",
-      "source": "Romeing",
-      "published": "2026-11-12T14:56:27Z",
-      "category": "events"
     }
   ],
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
     "Romeing": 6,
-    "ATAC": 2
+    "ATAC": 3
   }
 }
