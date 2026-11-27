@@ -1,69 +1,195 @@
 {
-  "updated": "2026-11-26T16:59:16Z",
+  "updated": "2026-11-27T16:44:49Z",
   "automatic": true,
   "articles": [
     {
-      "title": "Weekend a Roma: 25 eventi da non perdere sabato 28 e domenica 29 novembre",
-      "url": "https://www.romatoday.it/eventi/weekend/28-29-novembre-2026-roma-cosa-fare.html",
+      "title": "La marea fucsia pronta a invadere Roma, sabato il corteo di Non una di meno: \"Rivendichiamo il futuro\"",
+      "url": "https://www.romatoday.it/politica/corteo-contro-violenza-donne-percorso-roma.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:46:00Z",
+      "published": "2026-11-27T16:32:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Orfini per il Gualtieri-bis: \"A Roma abbiamo dimostrato che le cose si possono fare e questo i romani l'hanno capito\"",
+      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/orfini-gualtieri-evento-elezioni-roma-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T16:20:00Z",
       "category": "events"
     },
     {
-      "title": "Saldi 2027, la regione fissa le date di partenza di quelli invernali ed estivi",
-      "url": "https://www.romatoday.it/economia/saldi-2027-roma-date-invernali-estivi.html",
+      "title": "Tampon box con assorbenti gratuiti nelle scuole e negli uffici nel municipio VIII: via al progetto",
+      "url": "https://www.romatoday.it/politica/tampon-box-assorbenti-scuole-municipio-viii.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:36:45Z",
+      "published": "2026-11-27T16:00:00Z",
       "category": "general"
     },
     {
-      "title": "Scalata su Avio: Iceye punta al controllo, mille lavoratori in bilico tra Colleferro e indotto",
-      "url": "https://www.romatoday.it/economia/avio-opa-finlandia-iceye.html",
+      "title": "Risorse per Roma raddoppia gli sforzi, i dipendenti e le sedi: inaugurati gli uffici al Torrino",
+      "url": "https://www.romatoday.it/politica/inaugurazione-nuova-sede-risorse-per-roma.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:31:00Z",
+      "published": "2026-11-27T15:29:00Z",
       "category": "general"
     },
     {
-      "title": "Quadraro: accoltellato al torace durante una lite in casa, grave un 29enne",
-      "url": "https://www.romatoday.it/cronaca/accoltellato-lite-quadraro-arresti.html",
+      "title": "Luxury Frames, anteprima del docufilm al The Space Cinema Moderno",
+      "url": "https://www.romatoday.it/eventi/luxury-frames-anteprima-docufilm-10-dicembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:20:54Z",
+      "published": "2026-11-27T15:19:06Z",
       "category": "general"
     },
     {
-      "title": "Raddoppio dei binari a Vigna Clara, manca ancora il progetto e l'aumento delle corse resta un miraggio",
-      "url": "https://www.romatoday.it/politica/raddoppio-binari-vigna-clara-valle-aurelia-ritardi.html",
+      "title": "Castelverde calcio, capitan Basile: “Ora abbiamo capito la difficoltà del campionato”",
+      "url": "https://www.romatoday.it/sport/calcio/castelverde-calcio-basile-capito-difficolta-campionato.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:16:00Z",
+      "published": "2026-11-27T15:18:24Z",
       "category": "general"
     },
     {
-      "title": "Giappone-Italia, 160 anni di diplomazia: encomi a Zoffili e all'Ijbg",
-      "url": "https://www.romatoday.it/economia/giappone-italia-160-anni-diplomazia-zoffili-ijbg.html",
+      "title": "Real Tor Bella Monaca calcio, Fumaselli: “Fa piacere essere in testa, ma bisogna continuare così”",
+      "url": "https://www.romatoday.it/sport/calcio/real-tor-bella-monaca-calcio-fumaselli--piacere-essere-in-testa.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:15:59Z",
+      "published": "2026-11-27T15:17:11Z",
       "category": "general"
     },
     {
-      "title": "Ilona Staller vuole fare la sindaca di Roma: \"Sarò meglio di Gualtieri\"",
-      "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/ilona-staller-candidata-sindaco-roma.html",
+      "title": "Domenica Vintage \"edizione Natale\" al Monk",
+      "url": "https://www.romatoday.it/eventi/natale-vintage-monk-13-dicembre-2026.html",
       "source": "RomaToday",
-      "published": "2026-11-26T16:10:39Z",
+      "published": "2026-11-27T15:16:01Z",
+      "category": "events"
+    },
+    {
+      "title": "“Dentro me”, l'ambum di La Crus compie 30 anni: tour celebrativo a Roma",
+      "url": "https://www.romatoday.it/eventi/la-crus-dentro-me-30-anni-tour-14-aprile-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T15:13:55Z",
       "category": "general"
     },
     {
-      "title": "Emanuele Lo Russo di Roma e Antonio Saccoccio di Formia sono i due italiani morti in un attacco con droni in Kuwait",
-      "url": "https://www.romatoday.it/cronaca/emanuele-lorusso-antonio-saccoccio-morti-kuwait.html",
+      "title": "Minacce di morte contro Alemanno, Arlechino e Vannacci: lettera anonima su un'auto a Roma",
+      "url": "https://www.romatoday.it/cronaca/lettera-minacce-gianni-alemanno-massimo-arlechino-e-roberto-vannacci.html",
       "source": "RomaToday",
-      "published": "2026-11-26T15:39:24Z",
+      "published": "2026-11-27T15:11:00Z",
       "category": "general"
     },
     {
-      "title": "Morte Alessandro Ingusci, la Sapienza lancia una raccolta fondi per i funerali e per la crisi abitativa",
-      "url": "https://www.romatoday.it/politica/alessandro-ingusci-raccolta-fondi-sapienza.html",
+      "title": "Jovanotti riceve la lupa capitolina in Campidoglio: \"Sento il desiderio di tornare a vivere a Roma\"",
+      "url": "https://www.romatoday.it/attualita/jovanotti-consegna-lupa-capitolina-campidoglio-video.html",
       "source": "RomaToday",
-      "published": "2026-11-26T15:35:00Z",
+      "published": "2026-11-27T15:09:00Z",
       "category": "general"
+    },
+    {
+      "title": "\"Lee Gil Rae - The Road to Eternity from Millennium Pine Tree\", la mostra al Museo Carlo Bilotti",
+      "url": "https://www.romatoday.it/eventi/lee-gil-rae-museo-carlo-bilotti-28-novembre-28-febbraio-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:45:36Z",
+      "category": "events"
+    },
+    {
+      "title": "A Guide To The Best Events In December 2026 In Rome",
+      "url": "https://www.romeing.it/best-events-in-december-rome/",
+      "source": "Romeing",
+      "published": "2026-11-27T14:36:45Z",
+      "category": "events"
+    },
+    {
+      "title": "La ciclabile della Pineta Sacchetti si sposta. Il traffico davanti al Gemelli sparirà?",
+      "url": "https://www.romatoday.it/zone/montemario/ciclabile-pineta-sacchetti-modifica-traffico-gemelli.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:31:00Z",
+      "category": "transport"
+    },
+    {
+      "title": "Movida violenta su viale Ippocrate: 24enne rompe naso e costola a due vigili, poi tenta la fuga dagli uffici",
+      "url": "https://www.romatoday.it/cronaca/vigili-picchiati-viale-ippocrate.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:30:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Fraintende il sostegno del centro di accoglienza e diventa uno stalker: 52enne in manette a Monteverde",
+      "url": "https://www.romatoday.it/cronaca/stalking-a-monteverde-ossessionato-dall-operatrice-sociale-che-lo-aiutava.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:29:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Storni a Prati Fiscali e viale Jonio, i dissuasori non bastano: la proposta dell’etologo per spostarli nei parchi",
+      "url": "https://www.romatoday.it/attualita/dissuasori-storni-guano-proposta-lunerti.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:25:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Raccolta differenziata, il Lazio corre ma Roma resta la \"pecora nera\": Frosinone doppia la Capitale",
+      "url": "https://www.romatoday.it/politica/raccolta-differenziata-il-lazio-corre-ma-roma-resta-la-pecora-nera-frosinone-doppia-la-capitale.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:25:00Z",
+      "category": "general"
+    },
+    {
+      "title": "\"Laura 30th e tutto il resto Live\", il tour di Nek nel 2027 a Roma",
+      "url": "https://www.romatoday.it/eventi/laura-30th-nek-concerto-14-ottobre-2027.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T14:24:31Z",
+      "category": "general"
+    },
+    {
+      "title": "Le strade chiuse a Roma sabato 28 e domenica 29 novembre",
+      "url": "https://www.romatoday.it/attualita/strade-chiuse-roma-sabato-28-domenica-29-novembre-2026.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:56:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Antonini lascia la Lega e aderisce a Fratelli d'Italia",
+      "url": "https://www.romatoday.it/politica/antonini-lega-fratelli-italia-roma.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:51:03Z",
+      "category": "general"
+    },
+    {
+      "title": "L'Università Europea di Roma inaugura l'anno accademico con Zuppi: \"Coltivare l'intelligenza spirituale\"",
+      "url": "https://www.romatoday.it/formazione/universita/universita-europea-roma-anno-accademico-intelligenza-artificiale.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:49:11Z",
+      "category": "general"
+    },
+    {
+      "title": "Ladri acrobati a Cinquina: sorpresi da una vicina mentre si calano dal balcone",
+      "url": "https://www.romatoday.it/cronaca/ladri-acrobati-cinquina-furti-appartamento.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:46:00Z",
+      "category": "general"
+    },
+    {
+      "title": "È di Marco Pellegrino il corpo trovato all'ex Città del Rugby. Era scomparso da casa il 28 ottobre",
+      "url": "https://www.romatoday.it/cronaca/marco-pellegrino-morto-citta-rugby-spinaceto.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:41:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Al Grassi di Ostia impiantato un pacemaker senza fili grande quanto una pillola su un paziente di 91 anni",
+      "url": "https://www.romatoday.it/attualita/ospedale-grassi-ostia-pacemaker-senza-fili.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:41:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Luiss apre l'anno accademico 2026-2027: al centro l'IA e il pensiero critico",
+      "url": "https://www.romatoday.it/formazione/universita/luiss-inaugura-anno-accademico-2026-2027-intelligenza-artificiale.html",
+      "source": "RomaToday",
+      "published": "2026-11-27T13:11:00Z",
+      "category": "general"
+    },
+    {
+      "title": "Unconventional Market in Rome: Independent Brands, Creativity and Music at MAXXI",
+      "url": "https://www.romeing.it/unconventional-market-in-rome/",
+      "source": "Romeing",
+      "published": "2026-11-27T08:27:51Z",
+      "category": "events"
     },
     {
       "title": "BLACK MARKET in Rome: The Big Vintage Shopping Event at PratiBus District",
@@ -73,123 +199,11 @@
       "category": "transport"
     },
     {
-      "title": "Poste Italiane ricorda Federica Torzullo con un timbro contro la violenza sulle donne",
-      "url": "https://www.romatoday.it/attualita/poste-italiane-timbro-federica-torzullo-femminicidio.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T15:29:36Z",
-      "category": "general"
-    },
-    {
-      "title": "Villaggio Prenestino, il quartiere si prepara alla visita del Papa. Il vademecum di padre Dario: \"Venite a piedi\"",
-      "url": "https://www.romatoday.it/attualita/papa-leone-xiv-parrocchia-sant-eligio-programma.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T15:16:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Lavoratori Ales in bilico. Oltre 400 romani della società in house del ministero della Cultura restano senza garanzie",
-      "url": "https://www.romatoday.it/economia/ales-ministero-cultura.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:59:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Roma Capitale, via libera in commissione al Senato: il Pd chiede risorse, FdI attacca Gualtieri",
-      "url": "https://www.romatoday.it/politica/riforma-roma-capitale-astensione-pd.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:53:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Ristorante etnico da incubo a Roma: sporco ovunque e 1.200 uova scadute. Distrutti 250 chili di alimenti",
-      "url": "https://www.romatoday.it/cronaca/ristorante-etnico-chiuso-marconi-sporco-cibo-scaduto.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:31:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Roma, cinquantenne seguito e accoltellato dopo una lite stradale nel parcheggio condominiale",
-      "url": "https://www.romatoday.it/cronaca/accoltellato-lite-stradale-mezzocammino.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:23:48Z",
-      "category": "general"
-    },
-    {
-      "title": "Lunghezzina, via libera dalla Giunta ai lavori di completamento della scuola dell'infanzia",
-      "url": "https://www.romatoday.it/zone/torri/castelverde/delibera-lavori-scuola-via-saldini-lunghezza.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:21:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Due esplosioni a Tivoli nel pomeriggio: danneggiati i vetri di un asilo e le lamiere di un parcheggio",
-      "url": "https://www.romatoday.it/cronaca/esplosioni-tivoli-bombe-carta-25-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:11:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Cosa c'entra Roma con la morte di De Gennaro? La mappa romana delle (presunte) manovre dell'ex capo della polizia",
-      "url": "https://www.romatoday.it/dossier/potere/giovanni-de-gennaro-roma-cosa-c-entra.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T14:00:00Z",
-      "category": "general"
-    },
-    {
-      "title": "McDonald's apre a Borgata Finocchio: quasi 60 assunti per l'88° locale in provincia",
-      "url": "https://www.romatoday.it/zone/torri/castelverde/mcdonalds-borgata-finocchio-apertura-assunzioni.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T13:54:26Z",
-      "category": "general"
-    },
-    {
-      "title": "Porta a spasso i cani, al rientro trova la casa svaligiata. Furto da 100mila euro in dieci minuti: \"Qualcuno mi ha seguita\"",
-      "url": "https://www.romatoday.it/cronaca/ladri-colli-portuensi-borse-centomila-euro-passeggiata-cani.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T13:01:45Z",
-      "category": "general"
-    },
-    {
-      "title": "Jovanotti saluta il pubblico al The Space Cinema Roma Moderno",
-      "url": "https://www.romatoday.it/eventi/jovanotti-the-space-cinema-roma-moderno-27-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T13:01:29Z",
-      "category": "general"
-    },
-    {
-      "title": "\"Almeno una volta\", performance al Teatro Binario 30",
-      "url": "https://www.romatoday.it/eventi/almeno-una-volta-teatro-binario-30-28-29-novembre-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T12:58:08Z",
-      "category": "events"
-    },
-    {
       "title": "Christmas Markets in Rome 2026",
       "url": "https://www.romeing.it/christmas-markets-in-rome/",
       "source": "Romeing",
       "published": "2026-11-26T12:49:53Z",
       "category": "events"
-    },
-    {
-      "title": "Villaggi di Natale 2026: i più belli da scoprire a Roma e dintorni",
-      "url": "https://www.romatoday.it/eventi/cultura/villaggi-natale-roma-2026.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T12:26:00Z",
-      "category": "events"
-    },
-    {
-      "title": "Salvato dai carabinieri dopo un infarto in strada: esce dalla rianimazione e corre in caserma ad abbracciarli",
-      "url": "https://www.romatoday.it/cronaca/infarto-piazza-barberini-salvato-carabinieri.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T12:21:00Z",
-      "category": "general"
-    },
-    {
-      "title": "Nuovo venerdì a rischio disagi a Roma: il 4 dicembre sarà sciopero generale",
-      "url": "https://www.romatoday.it/politica/sciopero-4-dicembre-roma-chi-aderisce.html",
-      "source": "RomaToday",
-      "published": "2026-11-26T12:10:00Z",
-      "category": "transport"
     },
     {
       "title": "Christmas at the Auditorium Parco della Musica",
@@ -211,26 +225,12 @@
       "source": "Romeing",
       "published": "2026-11-22T16:44:27Z",
       "category": "events"
-    },
-    {
-      "title": "How to Celebrate Thanksgiving 2026 in Rome",
-      "url": "https://www.romeing.it/how-to-celebrate-thanksgiving-in-rome/",
-      "source": "Romeing",
-      "published": "2026-11-20T16:27:59Z",
-      "category": "events"
-    },
-    {
-      "title": "Pasta in Corso: a gluten-free restaurant in Rome rooted in Roman tradition",
-      "url": "https://www.romeing.it/pasta-in-corso-a-gluten-free-restaurant-in-rome/",
-      "source": "Romeing",
-      "published": "2026-11-20T13:45:12Z",
-      "category": "events"
     }
   ],
   "sources": {
     "RomaToday": 25,
     "Wanted in Rome": "unavailable",
-    "Romeing": 8,
+    "Romeing": 9,
     "ATAC": 0
   }
 }
