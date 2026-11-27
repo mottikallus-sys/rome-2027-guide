@@ -1,0 +1,43 @@
+name: Cache Shabbat dish photography
+on:
+  push:
+    paths:
+      - '.github/workflows/cache-shabbat-photos.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  save-photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Fetch and verify licensed illustrative Pexels images
+        run: |
+          python3 - <<'PY'
+          import os,urllib.request
+          photos=["https://images.pexels.com/photos/6419748/pexels-photo-6419748.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/13068565/pexels-photo-13068565.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/13068566/pexels-photo-13068566.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/9219088/pexels-photo-9219088.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/6544494/pexels-photo-6544494.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/35152904/pexels-photo-35152904.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/38857376/pexels-photo-38857376.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/6419739/pexels-photo-6419739.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/7140294/pexels-photo-7140294.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/30318205/pexels-photo-30318205.jpeg?auto=compress&cs=tinysrgb&w=520","https://images.pexels.com/photos/8088400/pexels-photo-8088400.jpeg?auto=compress&cs=tinysrgb&w=520"]
+          os.makedirs('shabbat-photos',exist_ok=True)
+          for i,url in enumerate(photos):
+              req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (Road Trip 2027 travel guide)'})
+              try:
+                  with urllib.request.urlopen(req,timeout=25) as r:
+                      data=r.read(600_000)
+                      kind=r.headers.get('Content-Type','')
+                  if len(data)<1500 or not data.startswith(bytes.fromhex('ffd8ff')):
+                      raise ValueError('Response was not a JPEG')
+                  with open(f'shabbat-photos/{i}.jpg','wb') as f:f.write(data)
+                  print(f'Saved {i}: {len(data)} bytes')
+              except Exception as ex:
+                  print(f'WARNING photo {i}: {ex}')
+          PY
+      - name: Commit local photos so GitHub Pages serves them reliably
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add shabbat-photos/
+          if ! git diff --cached --quiet; then
+            git commit -m "Cache Shabbat menu photos for reliable local serving"
+            git push
+          fi
