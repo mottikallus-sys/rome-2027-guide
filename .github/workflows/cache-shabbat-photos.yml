@@ -39,5 +39,7 @@ jobs:
           git add shabbat-photos/
           if ! git diff --cached --quiet; then
             git commit -m "Cache Shabbat menu photos for reliable local serving"
+            git fetch origin main
+            git rebase origin/main
             git push
           fi
